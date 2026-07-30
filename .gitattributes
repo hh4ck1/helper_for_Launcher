@@ -2,3 +2,6 @@
 *.zip binary
 *.png binary
 *.ogg binary
+*.json -text
+*.sig -text
+*.pem -text
