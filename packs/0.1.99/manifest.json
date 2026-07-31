@@ -1,0 +1,2340 @@
+{
+  "schemaVersion": 1,
+  "packId": "imperfect-salvation",
+  "packVersion": "0.1.99",
+  "minecraft": {
+    "version": "1.20.1",
+    "fabricLoaderVersion": "0.19.3",
+    "javaMajor": 17
+  },
+  "policy": {
+    "allowVerifiedOfflineLaunch": true,
+    "reportUnexpectedMods": true,
+    "reportResourcePacks": true,
+    "blockOnUnexpectedMods": false
+  },
+  "files": [
+    {
+      "path": "config/animation_overhaul/animations.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/animation_overhaul/animations.json5",
+      "size": 3227,
+      "sha256": "00f4a867204a3424faf35ecd8291bcf76dd212c330525fe5ecffb5f39aeea347",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/animation_overhaul/local_player.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/animation_overhaul/local_player.json5",
+      "size": 285,
+      "sha256": "fe9d61e0f3d0ee52069e5527b801f2f9077c5c223fe78d66d933fec246c5a91f",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/axiom/axiom.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/axiom/axiom.json",
+      "size": 9389,
+      "sha256": "974fc640b54e6f17f6ca0ab39be47b2191857da3c20ab3c93615e9899b0feef0",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/bettercombat/client.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/bettercombat/client.json5",
+      "size": 554,
+      "sha256": "8b11818b19f97decfcb119cce4038bfe28e83fbf3d2173a5472df678fce1a842",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/bettercombat/fallback_compatibility.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/bettercombat/fallback_compatibility.json",
+      "size": 2995,
+      "sha256": "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/bettercombat/server.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/bettercombat/server.json5",
+      "size": 5268,
+      "sha256": "cdf806c0ace89872a439f44f383132ed75003ae3445d55faa02a5f5b29aad4ef",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/botania-client.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/botania-client.json5",
+      "size": 2396,
+      "sha256": "651452d26846ab642e76eabc912e87cd4ae84404f546fb9bebe497e3c1622d4a",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/botania-common.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/botania-common.json5",
+      "size": 2650,
+      "sha256": "34e9ccc5d052f8791f8feb8af97fe578c1c1435e7426accd87a75a687cfba544",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/camerautils/camerautils.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/camerautils/camerautils.properties",
+      "size": 709,
+      "sha256": "3d1b9c8ea7b47b525c19ffe1fdfa67219b278a624f844c95e01f62af0aa289c8",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/cardinal-components-api.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/cardinal-components-api.properties",
+      "size": 273,
+      "sha256": "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/carryon-client.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/carryon-client.json",
+      "size": 676,
+      "sha256": "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/carryon-common.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/carryon-common.json",
+      "size": 8921,
+      "sha256": "da6fdce0a0b230f5ad04a17eba82e3d54651e9c540177e0169cdfe9e6ecba00e",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/citresewn.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/citresewn.json",
+      "size": 121,
+      "sha256": "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/comforts-server.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/comforts-server.toml",
+      "size": 1852,
+      "sha256": "f6df47d3f1002fde8d9e59c8068acbc39e976b3392e8fd528dc9b38b2856c5a0",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/computercraft-client.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/computercraft-client.toml",
+      "size": 565,
+      "sha256": "a28eb28eda3d19244448232dd0cddadab1b5488b3a04aded5929dbad147a5ebd",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/configurable/bettertrims.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/configurable/bettertrims.json5",
+      "size": 3875,
+      "sha256": "07797bdab7f436ae0ea24f851f6f0239947ed18444e1903e0d5de137fb5dc459",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/create-client.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/create-client.toml",
+      "size": 4770,
+      "sha256": "c91986572f8d90d90f5ea0251e34376c4f0f07c604af123d34c9a153ce0a1466",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/create-common.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/create-common.toml",
+      "size": 153,
+      "sha256": "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/createaddition-common.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/createaddition-common.toml",
+      "size": 4805,
+      "sha256": "526d0d94952ed5e4054ee3822ab7234f0fbb3b3ebdedd00bd3fa6cee4f748710",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/create_new_age-client.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/create_new_age-client.toml",
+      "size": 252,
+      "sha256": "0375c3125c4e8e127cd04657da442b3c5d0af4d61aa739b7973b69d3c7d3fc9d",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/create_new_age-common.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/create_new_age-common.toml",
+      "size": 4259,
+      "sha256": "f642bc1548ea5ea38833b208a26f869cfc3028ad98168a0ba7f553ed623bbd02",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/dynamic_fps.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/dynamic_fps.json",
+      "size": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/eclipsescustomname.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/eclipsescustomname.json",
+      "size": 89,
+      "sha256": "99078fb4509359f57ac14abeed970444652300d525bff10b83b45eae22bdb9cc",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/emi.css",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/emi.css",
+      "size": 10183,
+      "sha256": "1b149cd175b2bd85417ae3bf162c4f5169505129c4a811387c4c02ae90bec4cb",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/emotecraft.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/emotecraft.json",
+      "size": 647,
+      "sha256": "2fa623d32f4875832b34c7464d53a9686701ba0457336e9b008fcf40bd9e3411",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/emotecraft_emote_map.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/emotecraft_emote_map.json",
+      "size": 117,
+      "sha256": "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/enhancedgroups/enhancedgroups.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/enhancedgroups/enhancedgroups.properties",
+      "size": 840,
+      "sha256": "848f038fe23464ecc8ebaf23170d8ad2a168c7122e6c09f82bf8f766afe93acc",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/entity-view-distance.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/entity-view-distance.json",
+      "size": 193,
+      "sha256": "794d204bd0f2d682eafd5e086e777aa1277370a9b9b229ee006b30d737472cb4",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/entityculling.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/entityculling.json",
+      "size": 2228,
+      "sha256": "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/entity_model_features.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/entity_model_features.json",
+      "size": 1242,
+      "sha256": "d6ff2922e9d2752d80821be3c02abf3bba0ba5e4efd57399553dfd87b9f9561f",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/entity_texture_features.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/entity_texture_features.json",
+      "size": 1421,
+      "sha256": "d8d72a9ac49bbe45921f1ace5a22c30b65802c5e70829343cf7acfd25f79b8dc",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/etf_warnings.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/etf_warnings.json",
+      "size": 28,
+      "sha256": "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/exposure-client.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/exposure-client.toml",
+      "size": 3406,
+      "sha256": "f64ddf547f75af469f7925f4ecb91e3c46d9efd299b8208d42ee8af7d870c0a5",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/exposure-common.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/exposure-common.toml",
+      "size": 2331,
+      "sha256": "156850f6b138b85149e1540349fe783dbb057102ba5acc345a5277d3f717a5c1",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/extrabotany-client.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/extrabotany-client.json5",
+      "size": 235,
+      "sha256": "bbfe59090265b6e12886934c66ec95ea01a07336e7d41a48056086165713d641",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/extrabotany-common.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/extrabotany-common.json5",
+      "size": 7289,
+      "sha256": "ea77c6a780e623426f904e70e598248251aab5fe393a46fad12bf38eccedb387",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/fabric/indigo-renderer.properties",
+      "size": 290,
+      "sha256": "ac162a532d5f30abfc39252ec31080ab6b2aa703d2e047343b05de96f215ba96",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/fantasy_armor-attributes.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/fantasy_armor-attributes.json",
+      "size": 36625,
+      "sha256": "712046feccda8317831ca067c421cd7704eddc26e9f9f3456bb8044c177b5c13",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/fantasy_armor-common.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/fantasy_armor-common.json",
+      "size": 242,
+      "sha256": "94a689aa2606a1f64156d5a650ebd1c5fbfb5439f4beaf4415cee8d083b22a6d",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/fantasy_armor-effects.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/fantasy_armor-effects.json",
+      "size": 6099,
+      "sha256": "3c9b4f58860a001c34d2e2b82caaac3a152c25154809144274f48d4846cdb3ff",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/farmersdelight-client.toml",
+      "size": 365,
+      "sha256": "0aef81f57e2afd3906cf175407fa0725c3186eae76f0708a87454eaa57c9d72c",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/farmersdelight-common.toml",
+      "size": 4536,
+      "sha256": "747831fd6506f4c06ee5d4d058f8b2b087fe96f1bd4eac9fd3944f91f3feb3d8",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/ferritecore.mixin.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/ferritecore.mixin.properties",
+      "size": 1525,
+      "sha256": "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/flywheel.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/flywheel.json",
+      "size": 130,
+      "sha256": "8d5385ce9f9af3458c877db2ee7bf73230202c24870dece6b7e97e344fb8dfc1",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/forgeconfigapiport.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/forgeconfigapiport.toml",
+      "size": 1580,
+      "sha256": "300b866a6251887cbd30b18438e123b2fa524315edbf8e2996a01acb4ecac91e",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/fzzy_config/keybinds.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/fzzy_config/keybinds.toml",
+      "size": 6403,
+      "sha256": "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/gravestones.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/gravestones.json",
+      "size": 694,
+      "sha256": "33d4bc617d54dc0e30507d789d951b466a5f3ba3c57889a2cc35c17b8e0fcc83",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/imperfect_salvation_client.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/imperfect_salvation_client.properties",
+      "size": 90,
+      "sha256": "3ff992e26cb8fa8a76b62fb015326dd110cd910a1ee527c7f8505894f805871e",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/imperfect_salvation_updater.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/imperfect_salvation_updater.properties",
+      "size": 323,
+      "sha256": "5fedd3119a91c37471a49896ac4bc58ad2f0559dedc2653ac5659087b0ac0ffe",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/indium-renderer.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/indium-renderer.properties",
+      "size": 115,
+      "sha256": "a81e7b9a605c7a3458805334e81129088a182fcdad2fc93f5708281ae238a213",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/iris.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/iris.properties",
+      "size": 254,
+      "sha256": "8c08f9e195af322d055769ff4431c7cf28d98f2acce2b6867e35e8ad09d9fd4d",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/jei/jei-client.ini",
+      "size": 8658,
+      "sha256": "30503916553a0a302f433abd1c99a54303312cf426b7a6b49d0dff0461c82aba",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/jei/jei-colors.ini",
+      "size": 1338,
+      "sha256": "5f37aacd70460fdc2631ff45e98e8a2ce4e52d3e9a50917edf40eeed1236952e",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/jei/jei-debug.ini",
+      "size": 918,
+      "sha256": "ee9bb0f0f8465629951fe9a532f3ebe3327671a12d4cc6395860d7f7494b970b",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/jei/jei-mod-id-format.ini",
+      "size": 463,
+      "sha256": "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/justhammers.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/justhammers.json",
+      "size": 63,
+      "sha256": "200319cc65c7f692d2e618f52f846222793f9e62a6f31ad14e82713535a1fefc",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/konkrete/locals/de_de.local",
+      "size": 369,
+      "sha256": "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/konkrete/locals/en_us.local",
+      "size": 426,
+      "sha256": "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/konkrete/locals/pl_pl.local",
+      "size": 313,
+      "sha256": "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/konkrete/locals/pt_br.local",
+      "size": 322,
+      "sha256": "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/lambdynlights.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/lambdynlights.toml",
+      "size": 1081,
+      "sha256": "f4099aac100ce8952d84d1f6c48900e55653e9a7586684680e459ab5dae6f3b3",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/languagereload.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/languagereload.json",
+      "size": 181,
+      "sha256": "b967f2dfc93b6712860d2e9d2455a8724fa29b9baa5c131280fb7457909ee2cf",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/magna.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/magna.json",
+      "size": 945,
+      "sha256": "6749b1d63e487d30f5ef70f945edbd36643353bf5c38081443593d8e702d66ed",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/modernfix-mixins.properties",
+      "size": 4418,
+      "sha256": "94eaec2a459f27b9e5726bd83c70584476b26705a1c0479dcd6eddaa46f1962e",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/modern_industrialization.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/modern_industrialization.toml",
+      "size": 593,
+      "sha256": "0ed939cf9fd3fdc0803bda963fb38e7f6b71d51e4e9edd54752f6f83caf3956f",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/modmenu.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/modmenu.json",
+      "size": 814,
+      "sha256": "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/moonlight-client.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/moonlight-client.json",
+      "size": 286,
+      "sha256": "c40386376fc147c5ac73a3f8a125c2561f410bd7c6e13b8a61d99dc0e69d6176",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/moonlight-common.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/moonlight-common.json",
+      "size": 340,
+      "sha256": "2a747181a8b9a1a1201bbd85611e76e0794b178351c5bb711b7f1e3856cff05e",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/mousewheelie.hjson",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/mousewheelie.hjson",
+      "size": 8943,
+      "sha256": "f9b02f7ceb70eed43b1803291e93b56c9d162b6fd28bf36a4aa22fdf651c8b88",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/necronomicon.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/necronomicon.json5",
+      "size": 266,
+      "sha256": "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/neep/meatlib.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/neep/meatlib.toml",
+      "size": 909,
+      "sha256": "5a825910ec5f5a33d062b0ee4ad923309337f56a7a4ace41717db2d6f9f70663",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/neep/meatweapons.default.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/neep/meatweapons.default.toml",
+      "size": 1468,
+      "sha256": "0d1e3cb33897a018ac8b542d96f6aa3f3b841eab87cf9b5722aa32fa0b6a939c",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/neep/meatweapons.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/neep/meatweapons.toml",
+      "size": 1468,
+      "sha256": "0d1e3cb33897a018ac8b542d96f6aa3f3b841eab87cf9b5722aa32fa0b6a939c",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/neep/neepmeat.default.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/neep/neepmeat.default.toml",
+      "size": 2590,
+      "sha256": "d318b4a79f338fbd9b4b9c57d5c91eff8c82028b27c51fa46bfb2f6f7ea50073",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/neep/neepmeat.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/neep/neepmeat.toml",
+      "size": 2590,
+      "sha256": "d318b4a79f338fbd9b4b9c57d5c91eff8c82028b27c51fa46bfb2f6f7ea50073",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/noindium.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/noindium.json",
+      "size": 88,
+      "sha256": "0ec99e2aebcefedcf1d5681b6d9cd83d5ed6af32cb8004db0d0699c47beb1164",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/pal.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/pal.properties",
+      "size": 215,
+      "sha256": "f499de9bbecc7bf4ff3dc02268430adf8a799c3438fd2e3f2ed67e8d393818e3",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/patchouli.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/patchouli.json5",
+      "size": 1063,
+      "sha256": "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/ponder-client.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/ponder-client.toml",
+      "size": 617,
+      "sha256": "d28ba1c85ad38422155ce4aaddc9d29d9a666173f5eecfef870a866d0cac5ec2",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/radio/radio.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/radio/radio.properties",
+      "size": 437,
+      "sha256": "3c1964962c75ce79c4c10f6ee0eec187fb7b167fd768a0ff1a6914ef79d6662a",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/railways-client.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/railways-client.toml",
+      "size": 1975,
+      "sha256": "fcafcb49ceedf4071a2b63873c5216062f6a04f6797b7d5dca58349810c2a3ec",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/railways-common.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/railways-common.toml",
+      "size": 335,
+      "sha256": "cb0af90a705f48886a1c4ec970dfeb70e91d6961f561b5f1d5a31f5e0cc1edd5",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/refurbished_furniture.client.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/refurbished_furniture.client.toml",
+      "size": 1003,
+      "sha256": "873accc4c821d113956e217a66c19ce87cd806fc55601d1faabf146723824bbd",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/replaymod.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/replaymod.json",
+      "size": 1738,
+      "sha256": "61c3ad5052b81072e004150c08ceb7de10f7aede31bb7c6a721a6239b94977c7",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/showmeyourskin-server.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/showmeyourskin-server.json",
+      "size": 67,
+      "sha256": "483f1a0209c8509c1505b15bed44108ee57e8b233152dafa1be0311c686d941a",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/showmeyourskin.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/showmeyourskin.json",
+      "size": 1345,
+      "sha256": "4f0a81c8aa41af5ce2ba63045a7bed89fa81328cd4461c280c4fe8330298e347",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/simpleradio-client.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/simpleradio-client.toml",
+      "size": 1506,
+      "sha256": "7ca1111a438a6ffd506e5774095ca70661deb6cf14207ca9a32ff23fbe12e978",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/simpleradio-server.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/simpleradio-server.toml",
+      "size": 12313,
+      "sha256": "f49530704a4c2b864c28ea8f53b82058464ee5f36dcb9bdc9cbca402765e9081",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/simplyswords_extra/backupconfig.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/simplyswords_extra/backupconfig.json",
+      "size": 71,
+      "sha256": "ec1a9e835b75774dcaf2975096e2ae38ad27c6a93b0606c4b0a2dc93b1a7fc38",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/simplyswords_extra/loot_config.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/simplyswords_extra/loot_config.json5",
+      "size": 2554,
+      "sha256": "7d3b5b582c6b33ed37f038f536bb005fd89a6d0c78349b75bc9547d0ba06829f",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/simplyswords_main/gem_effects.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/simplyswords_main/gem_effects.json5",
+      "size": 577,
+      "sha256": "3e953737dcb4ed50db8605db74df14983300f79f38b6f954ec0a0686ba2d82ea",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/simplyswords_main/general.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/simplyswords_main/general.json5",
+      "size": 269,
+      "sha256": "e0c4e649ecd0932e5e66534cd6eb34beb3c3954ca6f985646879cd7775c24718",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/simplyswords_main/loot.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/simplyswords_main/loot.json5",
+      "size": 1261,
+      "sha256": "6dd8d790a6301b06d3dfa54c550f9a9c912034e3e4674084d95cbae5adcccb48",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/simplyswords_main/runic_effects.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/simplyswords_main/runic_effects.json5",
+      "size": 1629,
+      "sha256": "07e0a8995b5e2d948a20910b9e3fed8d88733f677d384a5ea78589a9d9981f82",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/simplyswords_main/status_effects.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/simplyswords_main/status_effects.json5",
+      "size": 20,
+      "sha256": "4fa38ac43a2d8f996f7800c9d61235c3800bfd3cae7f6ba2d76093665bec8fb2",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/simplyswords_main/unique_effects.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/simplyswords_main/unique_effects.json5",
+      "size": 5507,
+      "sha256": "f939b3c7e04ac677da5a6f83ef56d52ddaeb869cd98d7ff2dccfa3ef83ef63d8",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/simplyswords_main/weapon_attributes.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/simplyswords_main/weapon_attributes.json5",
+      "size": 5926,
+      "sha256": "6f794ab26ccec8d189c3e15374cb1ad965acaff5f3dcf0402387218ee02638cb",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/skinlayers.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/skinlayers.json",
+      "size": 497,
+      "sha256": "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sliceanddice-client.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sliceanddice-client.toml",
+      "size": 29,
+      "sha256": "3a5b0f383352483c0afb34cad7800ab7757b70d0028e6edbdb4c67b1762b829d",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sliceanddice-common.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sliceanddice-common.toml",
+      "size": 423,
+      "sha256": "034a4d70308cfae191d8e7e0f86d8584b4dae6dd8c5133ed1d9abb9924c28f38",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sodium-extra-options.json",
+      "size": 1473,
+      "sha256": "397c8144c4440ecde7899c8d0bda480354bee15bd8f4b1d238a673fab9a7b034",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sodium-extra.properties",
+      "size": 360,
+      "sha256": "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sodium-fingerprint.json",
+      "size": 427,
+      "sha256": "6134c54060027b4a163bf815a1bc089e5da26a81aacf1199d3d74280d7b66869",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sodium-mixins.properties",
+      "size": 265,
+      "sha256": "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sodium-options.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sodium-options.json",
+      "size": 632,
+      "sha256": "e170cafd722ce62aa061d6770af08274391dd17064f58e82e2ff84af2b1f95ac",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sophisticatedbackpacks-common.toml",
+      "size": 118,
+      "sha256": "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sophisticatedcore-client.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sophisticatedcore-client.toml",
+      "size": 347,
+      "sha256": "c298f506a9243beba0f3a3ca52199dc8058ac6d1e5357a533549bfd18fbdc63e",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sophisticatedcore-common.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sophisticatedcore-common.toml",
+      "size": 108,
+      "sha256": "6928810eacfc20c8568759fc8c142df5f643e790f5c97c082719d65656274ff8",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sophisticatedstorage-client.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sophisticatedstorage-client.toml",
+      "size": 399,
+      "sha256": "cbb1a5e4f7b9b3719562c623340b2db2e64717e9ceaf9c713d2dfc67dd50ab7e",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sophisticatedstorage-common.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sophisticatedstorage-common.toml",
+      "size": 186,
+      "sha256": "0c721ecf8a9a6fba8402b7ce73bf8580acdd078e9ac9c3b37c42245ca6d8c4b0",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sound_physics_remastered/allowed_sounds.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sound_physics_remastered/allowed_sounds.properties",
+      "size": 83591,
+      "sha256": "e614b9ab816cd5464d40fb52f818b0d438089b3e825e46dc9b4055a5aaff87f9",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sound_physics_remastered/occlusion.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sound_physics_remastered/occlusion.properties",
+      "size": 4831,
+      "sha256": "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sound_physics_remastered/reflectivity.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sound_physics_remastered/reflectivity.properties",
+      "size": 4713,
+      "sha256": "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/sound_physics_remastered/soundphysics.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/sound_physics_remastered/soundphysics.properties",
+      "size": 5105,
+      "sha256": "068ccd6b0985f7ba643fb7ccd6e8149378b4679891a90aa2c787f8ba278330c6",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/spyglass-improvements/settings.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/spyglass-improvements/settings.json",
+      "size": 178,
+      "sha256": "33d7c69c71d5f19d3055e454f69541a0c1d663cb8d9a3f8dba391ddf10b658e5",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/swinginglanterns/lantern_overrides.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/swinginglanterns/lantern_overrides.json",
+      "size": 67,
+      "sha256": "63c391c71d316a74d3e51076b9c731e50b57a8f35e3ce74880e64958cac05f29",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/swinginglanterns/raycast_ignored_blocks.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/swinginglanterns/raycast_ignored_blocks.json",
+      "size": 557,
+      "sha256": "8ab0b9630f17cf7bd9492e32fada1246c2c99a0ceba96b3825a55ccd4fd3df5e",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/swinginglanterns/README.txt",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/swinginglanterns/README.txt",
+      "size": 750,
+      "sha256": "d5af6b2d6a384a8d7c630b61d14fc6fa546807a618c6af30f61f2c0318c96097",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/swinginglanterns/swinginglanterns.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/swinginglanterns/swinginglanterns.json",
+      "size": 1095,
+      "sha256": "c23d7647cbd12645209d31e213ef91f5ab5f771f0e3f26524cb5daa753b0860d",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/transition.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/transition.json",
+      "size": 97,
+      "sha256": "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/trender.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/trender.json",
+      "size": 44,
+      "sha256": "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/usefullanterns/config.toml",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/usefullanterns/config.toml",
+      "size": 117,
+      "sha256": "b6df55df1831ab595d51c3879e0443cd69d1d551e4b375f392cc633309dbe28d",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/vcinteraction/vcinteraction.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/vcinteraction/vcinteraction.properties",
+      "size": 136,
+      "sha256": "111d703caf89e0136e0e9d93fe7a265d436111d53ad44981e037bf67731c9962",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/vista-client.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/vista-client.json",
+      "size": 611,
+      "sha256": "e8b88209c7d95f63c22aba944b5c69640ac0a8048c53b78ec2e6ddc04512fef8",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/vista-common.json",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/vista-common.json",
+      "size": 223,
+      "sha256": "7229bb8f25a55f874e9a253fa6a2fbb8eda7eac9a9bbce51bf0fe5ae91f32ff2",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/vmp.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/vmp.properties",
+      "size": 543,
+      "sha256": "0a390baec374317eca5b7e3b27853518c7151f2d0cb7cde0157adeb49bba7550",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/voicechat/category-volumes.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/voicechat/category-volumes.properties",
+      "size": 46,
+      "sha256": "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/voicechat/player-volumes.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/voicechat/player-volumes.properties",
+      "size": 44,
+      "sha256": "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/voicechat/translations.properties",
+      "size": 1182,
+      "sha256": "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/voicechat/voicechat-client.properties",
+      "size": 5063,
+      "sha256": "82c141c21dfe5959b9252432cb87c0217ccaa9164faa2c1c0c3a458e995d3b75",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/voicechat/voicechat-server.properties",
+      "size": 2830,
+      "sha256": "ca352dc14b3f2debe25758399ecad972db34e5c904da41730dec80cf8dedd369",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/waila/blacklist.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/waila/blacklist.json5",
+      "size": 1550,
+      "sha256": "201c132595425b9817f8ea2efe6d5772f96b7059a7cda9f6d2d81f8ea6a8b85b",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/waila/debug.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/waila/debug.json5",
+      "size": 123,
+      "sha256": "e54d2423726125dd300297ea935fbfd82cf7c374fbd4ee2d85b7ba140e3ba97a",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/waila/extra/energy_blacklist.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/waila/extra/energy_blacklist.json5",
+      "size": 1167,
+      "sha256": "e8243ffac9e64e2b025195ebfc4b1acafb98e5e89c0167e673470d65d4c31810",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/waila/extra/fluid_blacklist.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/waila/extra/fluid_blacklist.json5",
+      "size": 1163,
+      "sha256": "278e964061848df94ac89d7610987afe3d008f1ca5fe6119410dc2e07a2aca10",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/waila/extra/item_blacklist.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/waila/extra/item_blacklist.json5",
+      "size": 1159,
+      "sha256": "9ef0b7479c81e1a941eaa44fcdc571bdf9cb3ddb3d234a64f3dff0a8ccbda41e",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/waila/extra/progress_blacklist.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/waila/extra/progress_blacklist.json5",
+      "size": 1175,
+      "sha256": "b8f09c52b1a975dc1f0ba65c7f4b6757dfc1bc784b87e0530046adaacbadcec4",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/waila/plugin_toggle.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/waila/plugin_toggle.json5",
+      "size": 199,
+      "sha256": "621266f3b0cd00d7ed8c2acc7333ee0c18c12a8ddd745a4e5ab9f3c3c11e5f2d",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/waila/waila_plugins.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/waila/waila_plugins.json5",
+      "size": 12603,
+      "sha256": "acf0f87e05b8c39cbc9842b33382d3f0e05796648034bc035c584594d2328c2f",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/wiretap/wiretap-server.properties",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/wiretap/wiretap-server.properties",
+      "size": 824,
+      "sha256": "bda951c720715fa1860d5c236c3adaff4caed11ffc7472e5705b7543152b0b75",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/xaero/lib/client.cfg",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/xaero/lib/client.cfg",
+      "size": 26,
+      "sha256": "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/xaero/lib/common.cfg",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/xaero/lib/common.cfg",
+      "size": 236,
+      "sha256": "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/xaero/lib/profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/xaero/lib/profiles/default.cfg",
+      "size": 121,
+      "sha256": "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/xaero/lib/server_profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/xaero/lib/server_profiles/default.cfg",
+      "size": 75,
+      "sha256": "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/xaero/minimap/client.cfg",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/xaero/minimap/client.cfg",
+      "size": 235,
+      "sha256": "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/xaero/minimap/common.cfg",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/xaero/minimap/common.cfg",
+      "size": 147,
+      "sha256": "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/xaero/minimap/profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/xaero/minimap/profiles/default.cfg",
+      "size": 3569,
+      "sha256": "cd0f5c07b6be47c715189f615057a5fa5ed6b341e8c40bdb959bced012712d8d",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/xaero/minimap/server_profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/xaero/minimap/server_profiles/default.cfg",
+      "size": 75,
+      "sha256": "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/xaero/world-map/client.cfg",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/xaero/world-map/client.cfg",
+      "size": 491,
+      "sha256": "201e49f557c160a48657d8df3aa25830cb68b1316735f69f3564e78223e3317a",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/xaero/world-map/common.cfg",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/xaero/world-map/common.cfg",
+      "size": 141,
+      "sha256": "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/xaero/world-map/profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/xaero/world-map/profiles/default.cfg",
+      "size": 1379,
+      "sha256": "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/xaero/world-map/server_profiles/default.cfg",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/xaero/world-map/server_profiles/default.cfg",
+      "size": 75,
+      "sha256": "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "config/yacl.json5",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/config/yacl.json5",
+      "size": 35,
+      "sha256": "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820",
+      "kind": "config",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/alloy-forgery-2.1.2\u002B1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/alloy-forgery-2.1.2%2B1.20.jar",
+      "size": 256944,
+      "sha256": "eae8e06513c458f8aba8396188078a22e2c65f1228f48f5288d1755439518666",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/Animation_Overhaul-fabric-1.20.x-1.3.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/Animation_Overhaul-fabric-1.20.x-1.3.1.jar",
+      "size": 263171,
+      "sha256": "9d1c4f08141605934667bd5410a5d1e51a54a535c66229db7925842a322e360d",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/architectury-9.2.14-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/architectury-9.2.14-fabric.jar",
+      "size": 585207,
+      "sha256": "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/athena-fabric-1.20.1-3.1.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/athena-fabric-1.20.1-3.1.2.jar",
+      "size": 74370,
+      "sha256": "da18e81a3b72263a67c40e325537c587b48fff2fabb625c612ca4d7c2f386ecd",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/Axiom-5.4.2-for-MC1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/Axiom-5.4.2-for-MC1.20.1.jar",
+      "size": 47030180,
+      "sha256": "e54ca8ea6e74c0ba2840199b1b12eff2ad564d74c1239f155dcfec74e61792e9",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/badpackets-fabric-0.4.3.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/badpackets-fabric-0.4.3.jar",
+      "size": 27655,
+      "sha256": "4a6b84ce20d7a35d17ef86fe29417de6f25704f478ee2f5f92c7c2ee76ea899e",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/bettercombat-fabric-1.9.0\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/bettercombat-fabric-1.9.0%2B1.20.1.jar",
+      "size": 907055,
+      "sha256": "c1b680dd03d3af3bf670cf0d024d58bd06360f5b0818eabfec6d7c8e6a11ec07",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/BetterTrims-3.2.8-fabric\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/BetterTrims-3.2.8-fabric%2B1.20.1.jar",
+      "size": 735026,
+      "sha256": "6d098b0552c56b776d1f176ce05bf79c6a56a47445700ac559e0588bc03c73ca",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/Botania-1.20.1-454-FABRIC.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/Botania-1.20.1-454-FABRIC.jar",
+      "size": 12657307,
+      "sha256": "092288ff93c685541fb74601dcb310bdb5c47a99b2dd78e597aa86a65636bbc3",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/CameraOverhaul-v2.1.1-fabric\u002Bmc[1.20-1.20.5].jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/CameraOverhaul-v2.1.1-fabric%2Bmc%5B1.20-1.20.5%5D.jar",
+      "size": 140053,
+      "sha256": "e6cdacdf1927a5cbd0b30c5e20cf0ab0c693c9016de1c17033e6199ef32c4ed3",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/camerautils-1.20.1-1.0.5.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/camerautils-1.20.1-1.0.5.jar",
+      "size": 294528,
+      "sha256": "2765ad6bee67afb00392e8ec5f16a81b72d84a57be37d2c76dd8e67cbbc8872c",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/carryon-fabric-1.20.1-2.1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/carryon-fabric-1.20.1-2.1.2.7.jar",
+      "size": 443033,
+      "sha256": "8d25fb164fc4cc15cd9123a915c880c55527efe3fec26b2c7febf09e65c6ebdd",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/cc-tweaked-1.20.1-fabric-1.120.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/cc-tweaked-1.20.1-fabric-1.120.0.jar",
+      "size": 3612484,
+      "sha256": "9b959aacf17bf7128f04abf916817ea2ada98754fc826d7f14f4bb8e69adf7e1",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/ccccc-fabric-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/ccccc-fabric-1.0.3.jar",
+      "size": 253704,
+      "sha256": "1c8d0b389a3b872b99e0bc7a09da8b3d815355a3adda3b126fa393586b64f7f3",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/Chunky-1.3.146.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/Chunky-1.3.146.jar",
+      "size": 344004,
+      "sha256": "ae7fb9d35a3a9d9d4f2104aeae7b31a901c5e5842891e2edd9ddcc42c2646a38",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/cicada-lib-0.14.3\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/cicada-lib-0.14.3%2B1.20.1.jar",
+      "size": 381708,
+      "sha256": "ab3bb261662b1c928b2aab29ec9e1eeb48eeb166726f65a35a4a83a8415fe4f4",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/citresewn-1.1.5\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/citresewn-1.1.5%2B1.20.1.jar",
+      "size": 391752,
+      "sha256": "2ec0eb618d085c7ff35531e8362523df36e9496f562023193651c711ba5b7cfc",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/cloth-config-11.1.136-fabric.jar",
+      "size": 1172214,
+      "sha256": "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/comforts-fabric-6.4.0\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/comforts-fabric-6.4.0%2B1.20.1.jar",
+      "size": 693624,
+      "sha256": "f9852a749b5154cbb0e97651cd0a1718382fcdfebdea86813bb118b16ee1096b",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/Configurable-2.2.3-fabric-yarn\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/Configurable-2.2.3-fabric-yarn%2B1.20.1.jar",
+      "size": 643570,
+      "sha256": "2e04886a23ea3c0ca05f26a3bc56be61c379482b5f35cf89c134d1c67675d0a3",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/create-fabric-6.0.8.1\u002Bbuild.1744-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/create-fabric-6.0.8.1%2Bbuild.1744-mc1.20.1.jar",
+      "size": 32189889,
+      "sha256": "a613603fb08d967c5a4138d1adb7374c4a347b91e489fe21579a4cff4f40105a",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/create-new-age-1.2.0\u002Bfabric-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/create-new-age-1.2.0%2Bfabric-mc1.20.1.jar",
+      "size": 1041544,
+      "sha256": "228274f7cd9e65e5f303eb0d4e6e11ae88106e2a9e216d28f0983e678e3f64d1",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/createaddition-fabric\u002B1.20.1-1.3.4.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/createaddition-fabric%2B1.20.1-1.3.4.jar",
+      "size": 1647722,
+      "sha256": "619a285af56bca4f05bfd1a9c83beb1a29ef3222b66c648ed2e398b99f07002e",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/createthreadedtrains-fabric-1.20.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/createthreadedtrains-fabric-1.20.1-1.0.0.jar",
+      "size": 77441,
+      "sha256": "dfcfa81d06198885f7e5bf40fcdc25a3f40927589d4d65da84caac9b674350f0",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/customname-0.2.4-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/customname-0.2.4-1.20.1.jar",
+      "size": 44884,
+      "sha256": "1925d4e56b6053e34489d14360f48caba8cf6f1f94aedfd9beab2f2d2740551f",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/CustomSkinLoader_Universal-15.0.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/CustomSkinLoader_Universal-15.0.1.jar",
+      "size": 218215,
+      "sha256": "026d8b38ea93edccd647f60568193e79801a377b7bd4e916dcfc0d5482b767fc",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/dynamic-fps-3.11.4\u002Bminecraft-1.20.0-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/dynamic-fps-3.11.4%2Bminecraft-1.20.0-fabric.jar",
+      "size": 223261,
+      "sha256": "d143dcde4680fc9bd706b535728b04ff973e099bd5477f87ffa399eef76619ab",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/emi-1.1.24\u002B1.20.1\u002Bfabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/emi-1.1.24%2B1.20.1%2Bfabric.jar",
+      "size": 1124008,
+      "sha256": "537b062e0dc6f028cf84cf66a473ed1b8842219a708d17cdb292401441b0f367",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/emiffect-fabric-2.1.6\u002Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/emiffect-fabric-2.1.6%2Bmc1.20.1.jar",
+      "size": 38744,
+      "sha256": "f74ea12bf423fe4b125bc35e3e65e7c3d7d29d59ab82a1d272b63c2a5698b571",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+      "size": 873611,
+      "sha256": "e8c5fc2d618008a0ef52728508909945315bb9bf99d78f1478ec42cef502a4e0",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar",
+      "size": 233651,
+      "sha256": "27edcceb54b33d733e83856c59a01bb9e2d9fa555c108a0893c343b542e823b8",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/enhanced-groups-1.20.1-1.3.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/enhanced-groups-1.20.1-1.3.0.jar",
+      "size": 243908,
+      "sha256": "ed73f034b281b1d725588ffe8994844c93981b736955e5e23b11b4b4bf583cdb",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/entity-view-distance-1.1.2\u002B1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/entity-view-distance-1.1.2%2B1.20.jar",
+      "size": 245942,
+      "sha256": "f4bca1ec5cf5035b8789b0f03461e1bc0c4491f4359558a4bc869d6eaa0564aa",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/entityculling-fabric-1.10.5-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/entityculling-fabric-1.10.5-mc1.20.1.jar",
+      "size": 1592562,
+      "sha256": "cb4deb2a823c83af98fcc06e92807913b482de54981d1657a29882dc1fd4665c",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/entity_model_features-3.2.4-1.20.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/entity_model_features-3.2.4-1.20.1-fabric.jar",
+      "size": 565302,
+      "sha256": "febf97ce4bdaacea15dd502814c54ce42d72a98031a44c434a3b7dfdb3d769d3",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/entity_texture_features_1.20.1-fabric-7.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/entity_texture_features_1.20.1-fabric-7.1.jar",
+      "size": 753298,
+      "sha256": "00345f64b4cbd07edca8d4427d637febe7ae4202b37526dde0e00dda1a557014",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/eventwrapper-fabric-1.20.1-1.1.4.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/eventwrapper-fabric-1.20.1-1.1.4.jar",
+      "size": 1591701,
+      "sha256": "c820d64749fd2c24076b7ea6615ce71d36ca1f4e44e23466acb40ef0adc7985b",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/exposure-1.20.1-1.7.16-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/exposure-1.20.1-1.7.16-fabric.jar",
+      "size": 1342392,
+      "sha256": "c928456e3078c051d48177afbcc98658767db84cbad9c3198522c67ac52d5571",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/extrabotany-fabric-1.20.1-1.9.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/extrabotany-fabric-1.20.1-1.9.2.jar",
+      "size": 4092706,
+      "sha256": "51dab6e80ebd89136fe27c3418155a3f92abdb845979c53daf6b21483a5dcefb",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/fabric-api-0.92.9\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/fabric-api-0.92.9%2B1.20.1.jar",
+      "size": 2111565,
+      "sha256": "4056979ccaa1012354dfff14f39fdb085aefb3f1e0224ff45c3af41e4ffed5fd",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/fabric-carpet-1.20-1.4.112\u002Bv230608.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/fabric-carpet-1.20-1.4.112%2Bv230608.jar",
+      "size": 1577482,
+      "sha256": "00ad0ed15c457fdec0e6eefe84d79e1bb7b8f91f5f3a133cf89cb2b60ffb3d11",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.13.12\u002Bkotlin.2.4.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
+      "size": 8076848,
+      "sha256": "36c5dd8b728e3470d2882ae63119b93a20500fc0ea6f5c945c12bf65b5ab1832",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/fantasy_armor-fabric-1.2.4-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/fantasy_armor-fabric-1.2.4-1.20.1.jar",
+      "size": 544403,
+      "sha256": "baaf7b076d24aa6b92904474964af82c5284c96ad9c6dfc1378ca71719faf3eb",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-2.4.1\u002Brefabricated.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/FarmersDelight-1.20.1-2.4.1%2Brefabricated.jar",
+      "size": 8056758,
+      "sha256": "81d78e10b58e220bffbe4932de5486ac2127efc37908e89161237a34f0828fac",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/ferritecore-6.0.1-fabric.jar",
+      "size": 125197,
+      "sha256": "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+      "size": 396628,
+      "sha256": "337a8f6c5ba48ef3b3da828f4f6a75d0552ba33f48ce97d3195befdb570e427a",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/framework-fabric-1.20.1-0.7.12.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/framework-fabric-1.20.1-0.7.12.jar",
+      "size": 1393788,
+      "sha256": "d27d27e6eb3eb0f1926b0a3ac5b99efa853d583c0114ae78fd3e36eb5dccbe36",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/fzzy_config-0.7.6\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/fzzy_config-0.7.6%2B1.20.1.jar",
+      "size": 2372585,
+      "sha256": "faa76d1ad670041d88cebd4eeda8e804bcd99289e755336fc1df4a066cfdbc8c",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/geckolib-fabric-1.20.1-4.8.4.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/geckolib-fabric-1.20.1-4.8.4.jar",
+      "size": 969016,
+      "sha256": "ee8495a8db7a83aa63e8ef248d4eadda665ff57c5911b8e59fd608806137baa6",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/gravestones-1.4.1\u002B1.20\u002BA.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/gravestones-1.4.1%2B1.20%2BA.jar",
+      "size": 288943,
+      "sha256": "6e45c6267e26bf0636d8641dd11758bcf2dd142189e319decf3b90ab88aa6cdb",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/Imperfect_salvation.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/Imperfect_salvation.jar",
+      "size": 2367688,
+      "sha256": "dbe55f9fd90cb0a961ccaddc399cf7f484884d1a4d7228f7a1884a1c30ed8d0a",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/indium-1.0.36\u002Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/indium-1.0.36%2Bmc1.20.1.jar",
+      "size": 105382,
+      "sha256": "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/iris-1.7.6\u002Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/iris-1.7.6%2Bmc1.20.1.jar",
+      "size": 2726899,
+      "sha256": "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/jei-1.20.1-fabric-15.20.0.132.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/jei-1.20.1-fabric-15.20.0.132.jar",
+      "size": 1422619,
+      "sha256": "c50c80f9f8106a86baf41f8f4fa2ab2dbd3ee948a891ba7d67c1bf896ef8795e",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/justhammers-fabric-20.1.5\u002Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/justhammers-fabric-20.1.5%2Bmc1.20.1.jar",
+      "size": 90255,
+      "sha256": "7c566bdc6d18af12ba9160a7469526ac815be2c3f5e75accb673261b79fcbc65",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "size": 892067,
+      "sha256": "f87fc3ab29a8df63a5214fdfa58d2f9fa645255af64d38ba598a9f56fafccdb6",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/lambdynamiclights-4.4.0\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/lambdynamiclights-4.4.0%2B1.20.1.jar",
+      "size": 1114373,
+      "sha256": "074d6c79e002790b696ebcfdd4ff2a2d57ec55228f93b47e952eeebd5baf5301",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/language-reload-1.7.5\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/language-reload-1.7.5%2B1.20.1.jar",
+      "size": 73012,
+      "sha256": "bfe158c575a9d31faf94019beb62a7fa6ef0ed75cdf19cf4a5356e0e755cc332",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/lavender-0.1.9\u002B1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/lavender-0.1.9%2B1.20.jar",
+      "size": 523368,
+      "sha256": "3f0329a0f7133ed2d854a6a739de1ecbc93c1b563f00c911243689b912a96795",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/lexiconfig-fabric-1.4.21-epic.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/lexiconfig-fabric-1.4.21-epic.jar",
+      "size": 277460,
+      "sha256": "d184dc3f4e40aa2629a44f2eca11d34a7ae03cbf72415b6440abd7de3d95149a",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/Modern-Industrialization-1.8.6.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/Modern-Industrialization-1.8.6.jar",
+      "size": 7223370,
+      "sha256": "a82a4e2bd76f9625cf398e555f4c6b6aea696e7d40d2422ba1a7d3909476370b",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/modernfix-fabric-5.25.2\u002Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/modernfix-fabric-5.25.2%2Bmc1.20.1.jar",
+      "size": 545175,
+      "sha256": "5c1f852046e62a17056bb6b571164e61644076c5eb9029c92b31e337cc62c0d9",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/moderntrainparts-0.1.7-fabric-mc1.20.1-cr0.5.1-f.jar.disabled",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/moderntrainparts-0.1.7-fabric-mc1.20.1-cr0.5.1-f.jar.disabled",
+      "size": 1090651,
+      "sha256": "d3ef605bba7ced97fd8387f76cb71679133d5428ea7d20c052223c0789050e99",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/modmenu-7.2.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/modmenu-7.2.2.jar",
+      "size": 721366,
+      "sha256": "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/moonlight-1.20-2.16.34-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/moonlight-1.20-2.16.34-fabric.jar",
+      "size": 1391142,
+      "sha256": "f18d37d6fdd6439c95d9c237659c782b84bf67f11131d6e8514fa84edbf4d6fc",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/moss-layers-1.20-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/moss-layers-1.20-2.1.0.jar",
+      "size": 918146,
+      "sha256": "d00365f5529d69846b6fc7fee62d36d6653348d9d30a63141ad55d2ef2ac9cbc",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/mouse-wheelie-1.16.3\u002Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/mouse-wheelie-1.16.3%2Bmc1.20.1.jar",
+      "size": 1121853,
+      "sha256": "2d84081287ee69c775a7d24c6dd5fe6a4fcd53d905261be4e8bc79a1a839b2f0",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/Necronomicon-Fabric-1.4.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/Necronomicon-Fabric-1.4.2.jar",
+      "size": 56083,
+      "sha256": "e9672731e310e8d93813f06fed60e8d3c4877d782a99c284d7b1100bb38503b8",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/neepmeat-0.31.1-beta\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/neepmeat-0.31.1-beta%2B1.20.1.jar",
+      "size": 35982763,
+      "sha256": "a1499d3c787e725c6801ea170038cd607b0b942e556a22343f3c173af026109a",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/otterlib-0.2.2.0\u002B1.20.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/otterlib-0.2.2.0%2B1.20.1-fabric.jar",
+      "size": 678140,
+      "sha256": "7b8a5571cc36734b1a1658ba1b4fedf8d4e4e50822cd4237a363f39fa022f939",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/owo-lib-0.11.2\u002B1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/owo-lib-0.11.2%2B1.20.jar",
+      "size": 905421,
+      "sha256": "1c249c30d3e50bba5cb35e0c3acebf4bd5f969bd33402de2f3a6a619fd688d12",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/player-animation-lib-fabric-1.0.2-rc1\u002B1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar",
+      "size": 181008,
+      "sha256": "0b10021fa638997398110777747726b1cb7a27bc3f8ff1b12e2b93ac01784018",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/pneumonocore-1.3.1\u002B1.20\u002BA.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/pneumonocore-1.3.1%2B1.20%2BA.jar",
+      "size": 161816,
+      "sha256": "23ab651aeae0bd2d60bb38fa57ea4b6c68bf1cab03a8ed264408440bc90f6dff",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/radio-1.1.1\u002B1.20.1.fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/radio-1.1.1%2B1.20.1.fabric.jar",
+      "size": 349684,
+      "sha256": "1ced1ce74fe75b913333e8feb4e57faaa621023f608c031d3afada97d6ed8545",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/refurbished_furniture-fabric-1.20.1-1.0.12.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/refurbished_furniture-fabric-1.20.1-1.0.12.jar",
+      "size": 6667835,
+      "sha256": "8fc54291d2c2640f9c7029165a536423a7d6fea2218fbc055add8abe7ee17636",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/replaymod-1.20.1-2.6.23.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/replaymod-1.20.1-2.6.23.jar",
+      "size": 14739015,
+      "sha256": "a46491d73456187ac888d31f6cc1160e42304427a63da88874c84abeb4d14033",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/show-me-your-skin-1.9.0\u002B1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/show-me-your-skin-1.9.0%2B1.20.jar",
+      "size": 262295,
+      "sha256": "7145f140d00c7d58bf73fb2d1cd161d22df450aa1cc87a136df51fdc1192b100",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/simpleradio-fabric-1.20.1-4.5.7.9.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/simpleradio-fabric-1.20.1-4.5.7.9.jar",
+      "size": 1006134,
+      "sha256": "667528f774ba38426ad8bcbea5db260ec0841316b38e56302cb47037445066e8",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/simplyswords-fabric-1.56.0-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/simplyswords-fabric-1.56.0-1.20.1.jar",
+      "size": 15366470,
+      "sha256": "ddbaf8ab85a6b003a817d0c0e817dcbdf9fcfe6b889c729ff72c4b6a3b1f3e9a",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
+      "size": 1988537,
+      "sha256": "9f76e7018eca0a20bb6c4f269d7192e14beba375f7fb9064425804d6fbdaab96",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/sliceanddice-fabric-3.5.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/sliceanddice-fabric-3.5.2.jar",
+      "size": 395717,
+      "sha256": "635a9f9595866dce034fda201bf8b4633660b8a259d67426e336d8b9e96691a0",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/sodium-extra-0.5.9\u002Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/sodium-extra-0.5.9%2Bmc1.20.1.jar",
+      "size": 370701,
+      "sha256": "5cae656838b595e27d5133264374e5d90f5f35a39e343bfc5a76b908fec97c9f",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/sodium-fabric-0.5.13\u002Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/sodium-fabric-0.5.13%2Bmc1.20.1.jar",
+      "size": 971552,
+      "sha256": "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar",
+      "size": 986101,
+      "sha256": "1e4e268d079ebef8a21f41f6a7a35528435733a124a134e3ef240389f3aa87c1",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-1.2.7.15.166.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/sophisticatedcore-1.20.1-1.2.7.15.166.jar",
+      "size": 2858683,
+      "sha256": "dafca4311f94ed5eff18f34077e7ab91a169863a4bde2cc82ae525d869ee9396",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/sophisticatedstorage-1.20.1-1.3.5.11.142.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/sophisticatedstorage-1.20.1-1.3.5.11.142.jar",
+      "size": 1676141,
+      "sha256": "ac2c27d12028b223306d730bd66b798f3f9762990ac3a4ec2510387c737d1e84",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/sound-physics-remastered-fabric-1.20.1-1.4.10.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/sound-physics-remastered-fabric-1.20.1-1.4.10.jar",
+      "size": 202462,
+      "sha256": "e3a8a509a53202e487be3d42faa32bd52c7e8c7a9cc4097abb8a3d26d85ef24b",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/spyglass_improvements-fabric-1.5.12\u002Bmc1.20\u002Bfabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/spyglass_improvements-fabric-1.5.12%2Bmc1.20%2Bfabric.jar",
+      "size": 61977,
+      "sha256": "a4810524b0d698e2e0def497bb103ee8432f25ac88048e6744ef255b17cd7af8",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/Steam_Rails-1.7.2\u002Bfabric-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/Steam_Rails-1.7.2%2Bfabric-mc1.20.1.jar",
+      "size": 16863902,
+      "sha256": "a1204d76be4771778411c5def98ff3bcbe9869f12698ed9ce6795e93e6b49afe",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/swinginglanterns-1.20.1-1.20.6-1.5.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/swinginglanterns-1.20.1-1.20.6-1.5.0.jar",
+      "size": 439595,
+      "sha256": "f86ba71ef112359bc8b22d769277452a7957ea77af18869a64dadd83fb458af0",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/trinkets-3.7.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/trinkets-3.7.2.jar",
+      "size": 238532,
+      "sha256": "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/usefullanterns-1.0.4-1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/usefullanterns-1.0.4-1.20.jar",
+      "size": 177937,
+      "sha256": "ef2ef17f262b88ae459670e200dec199be50367c23a4ffc3e8c8be4afab63d55",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/vcinteraction-1.20.1-1.0.5.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/vcinteraction-1.20.1-1.0.5.jar",
+      "size": 377794,
+      "sha256": "5e5952ad5f5a5a4e69780e54a71862cbb9e453e3dd3cf1c383c839555e7bfb3f",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/Visor-0.4.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/Visor-0.4.1-fabric.jar",
+      "size": 5591265,
+      "sha256": "abc73e56a14a15b61cfdc4ec6ebc6607d97c9bce38732bf2b809b025f43e180e",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/VisorEssentials-0.4.0-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/VisorEssentials-0.4.0-fabric.jar",
+      "size": 281923,
+      "sha256": "d6b40838d6dcce932b424e5e26ab38f03385783fd39cdc967e710902e532822c",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/vista-1.20-3.1.3-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/vista-1.20-3.1.3-fabric.jar",
+      "size": 7712775,
+      "sha256": "28267454dc92d54fec6337ec727afadf779bdc8dcf6efb6088d12eab97e5b8d2",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/vmp-fabric-mc1.20.1-0.2.0\u002Bbeta.7.102-all.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.102-all.jar",
+      "size": 487043,
+      "sha256": "4b2a19188c20fc58870768e2b47bd0bf7ebd82edc406d3eaf5d6f0ec08ffbd59",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/voicechat-fabric-1.20.1-2.6.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/voicechat-fabric-1.20.1-2.6.20.jar",
+      "size": 5271506,
+      "sha256": "bef9e2725a5648d436110ed7cae0b910a48590584aadecc84f4629fa29e02afb",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/voxy-0.1.5-alpha\u002Bmc1.20.1-iris1.7.6-port.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/voxy-0.1.5-alpha%2Bmc1.20.1-iris1.7.6-port.2.jar",
+      "size": 68730426,
+      "sha256": "709bc32448b879b59f25d24936909c4df6bede617d453082018fa4621447be50",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/wiretap-1.3.0\u002B1.20.1.fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/wiretap-1.3.0%2B1.20.1.fabric.jar",
+      "size": 327046,
+      "sha256": "ab840935a2ae502b6824eaa26f66e5e7850f6756e72930614f4bdb306d611255",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/wthit-1.20.1-fabric-8.21.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/wthit-1.20.1-fabric-8.21.1.jar",
+      "size": 849105,
+      "sha256": "825797f642b5902e9647690681e1f1e642b60174bf0230c56094b42150cd8f9b",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/xaerominimap-fabric-1.20.1-26.1.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/xaerominimap-fabric-1.20.1-26.1.0.jar",
+      "size": 2171315,
+      "sha256": "b8e12e853fe985b0b65642908f474076ad076283350bcf0f4c0be5add607be78",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/xaeroworldmap-fabric-1.20.1-1.41.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/xaeroworldmap-fabric-1.20.1-1.41.2.jar",
+      "size": 1411544,
+      "sha256": "c97508fbea4a98195cad4f5a6d66c6611237704356321c4afb20f61e718f8a12",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.6.6\u002B1.20.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar",
+      "size": 1294234,
+      "sha256": "7a2389ca436ea8f7abee787d6373f9526deece5d06785f3623b7fe89bd9b31ac",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    },
+    {
+      "path": "mods/zipline-1.1.3\u002B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.99/mods/zipline-1.1.3%2B1.20.1.jar",
+      "size": 105165,
+      "sha256": "4b4951df0c3f0cd6e37bd1310ba5cc1fa0fa67a210725437e8305ad7c551d65d",
+      "kind": "mod",
+      "side": "client",
+      "required": true
+    }
+  ]
+}

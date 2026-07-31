@@ -1,0 +1,10 @@
+{
+  "mi:server": true,
+  "mi:client": true,
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:fabric": true,
+  "waila:team_reborn_energy": true
+}
