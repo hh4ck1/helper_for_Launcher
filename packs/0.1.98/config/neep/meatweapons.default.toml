@@ -1,0 +1,65 @@
+[meatgun]
+	# default: 0.0
+	test = 0.0
+	# Drill Chassis max complexity is found in neepmeat.toml
+	# default: 8
+	rawGunMaxComplexity = 8
+	# default: 16
+	pistolBaseMaxComplexity = 16
+	# default: 16
+	staffBaseMaxComplexity = 16
+	# default: 20
+	longGunBaseMaxComplexity = 20
+	# default: 4.0
+	pistolAttackDamage = 4.0
+	# Multiplied by 5 internally
+	# default: 16
+	pistolCapacity = 16
+	# default: 8.0
+	chuggerAttackDamage = 8.0
+	# Multiplied by 5 internally
+	# default: 20
+	chuggerCapacity = 20
+	# default: 4.0
+	bosherAttackDamage = 4.0
+	# Multiplied by 5 internally
+	# default: 16
+	bosherCapacity = 16
+	# default: 15.0
+	longBoiBaseDamage = 15.0
+	# Multiplied by 5 internally
+	# default: 16
+	longBoiCapacity = 16
+	# default: 9.0
+	grenadeLauncherDamage = 9.0
+	# Multiplied by 5 internally
+	# default: 16
+	grenadeLauncherCapacity = 16
+	# default: 2.0
+	bloodThrowerDamage = 2.0
+	# Multiplied by 5 internally
+	# default: 48
+	bloodThrowerCapacity = 48
+	# default: 8.0
+	halberdDamage = 8.0
+	# default: 8.0
+	shockStaffDamage = 8.0
+	# Multiplied by 5 internally
+	# default: 16
+	shockStaffCapacity = 16
+	# Multiplied by 5 internally
+	# default: 24
+	batteryCapacity = 24
+
+# Multiplied by 5 internally
+[ammunition]
+	# default: 12
+	smallBallisticAmount = 12
+	# default: 24
+	mediumBallisticAmount = 24
+	# default: 48
+	largeBallisticAmount = 48
+	# default: 12
+	smallEnergyAmount = 12
+	# default: 24
+	mediumEnergyAmount = 24
