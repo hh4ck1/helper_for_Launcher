@@ -1,7 +1,3 @@
-*.jar binary
-*.zip binary
-*.png binary
-*.ogg binary
-*.json -text
-*.sig -text
-*.pem -text
+packs/** -text
+channel/stable/manifest.json -text
+channel/stable/manifest.sig -text
