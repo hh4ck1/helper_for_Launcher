@@ -1,0 +1,94 @@
+# If true, the Meatgun's ammo counter will be rendered on the item model instead of in the hud.
+# Set to false if transparency issues occur.
+# default: true
+meatgunAmmoOnModel = true
+# Max module complexity of the drill chassis
+# default: 16
+drillChassisMaxComplexity = 16
+
+[ore_fat]
+	# Rendering ore fat yield when not overridden in JSON
+	# default: 1.2
+	defaultRenderingYield_1 = 1.2
+	# Trommel ore fat yield when not overridden in JSON
+	# default: 1.2
+	defaultTrommelYield_1 = 1.2
+
+[motors]
+	# Maximum power that can be transferred by a striling engne (eJ/t)
+	# default: 150
+	stirlingEngineMaxPower = 150
+	# Maximum power that can be transferred by a basic motor (eJ/t)
+	# default: 400
+	basicMotorMaxPower = 400
+	# Maximum power that can be transferred by an advanced motor (eJ/t)
+	# default: 800
+	advancedMotorMaxPower = 800
+	# Maximum power that can be transferred by a large motor (eJ/t)
+	# default: 2000
+	largeMotorMaxPower = 2000
+
+[large_compressor]
+	# Droplets per unit energy per tick (droplets/eJ/t)
+	# default: 400
+	powerToDroplets = 400
+
+[charnel_pump]
+	# Minimum power required to run (eJ/t)
+	# default: 500
+	minPower = 500
+	# Air consumed per unit energy (droplets/eJ/t)
+	# default: 100
+	powerToAir = 100
+
+[pylon]
+	# Maximum angular speed of the Pylon (???)
+	# default: 40.0
+	maxSpeed = 40.0
+	# Angular speed at which the Pylon begins working (???)
+	# default: 16.0
+	runningSpeed = 16.0
+
+[feeding_trough]
+	# Amount of feed used to breed two animals (droplets)
+	# default: 13500
+	useAmount = 13500
+	# Amount of animal feed added per gland potato (droplets)
+	# default: 6750
+	feedPerItem = 6750
+
+[metaboliser]
+	# Maximum segments
+	# default: 6
+	maxSegments = 6
+
+[verrucous_stone]
+	# Energy generated per Verrucous Stone block per tick (eJ/t)
+	# default: 10
+	passiveCoefficient = 10
+
+[living_machines]
+	# Maximum number of blocks that can be part of a single living machine
+	# default: 128
+	maxBlocks = 128
+
+[power_flower]
+	# Energy generated per Power Flower surface block per tick (eJ/t)
+	# default: 10
+	solarCoefficient = 10
+	# Maximum number of blocks that can be part of a single Power Flower
+	# default: 160
+	maxBlocks = 160
+
+[fluid_drain]
+	# Amount of blood per mob when killed above a drain with a Tissue Operator
+	# default: 20250
+	bloodPerMob = 20250
+	# Fluid to produce when a mob is killed
+	# default: neepmeat:blood
+	fluidId = "neepmeat:blood"
+
+[loot_tables]
+	# If true, Integrator eggs will be injected into key loot tables
+	# default: true
+	injectIntegratorEggs = true
