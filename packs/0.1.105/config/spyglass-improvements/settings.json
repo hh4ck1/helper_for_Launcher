@@ -1,0 +1,9 @@
+{
+  "overlay": 2,
+  "extraZoom": true,
+  "multiplierDelta": 0.1,
+  "hideSettingsButton": false,
+  "showCrossHair": false,
+  "smoothCamera": false,
+  "userForceSpyglass": false
+}
