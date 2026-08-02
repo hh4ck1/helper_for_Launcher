@@ -1,0 +1,82 @@
+rendering:
+  mixed_reality:
+    with_first_person: true
+    keyColor: 0;0;0;255
+    render_hands: false
+    aspectRatio: 1.7777778
+    alpha_mask: false
+    fov: 40.0
+    as_grid_2_x_2: true
+  eye_effects:
+    pumpkin: true
+    hit_indicator: true
+    freeze: true
+    low_health_indicator: true
+  shaders:
+    per_eye_pipelines: true
+    shared_ssbo: true
+    shared_shadows: false
+  dh_mirror_passes: false
+  third_person:
+    camera:
+      rotation: 0.2246;0.1873;0.044;-0.9552
+      blockPos:
+        z: 2.75
+        y: 2.4
+        x: -1.0
+    fov: 40.0
+  mirror_eye: LEFT
+  world_scale: 1.0
+  mirror_mode: CROPPED
+movement:
+  world_rotation:
+    smooth_sensitivity: 0.06
+    step: 45.0
+  rotation_mode: HMD
+  walk_up: true
+  mode: CONTROLLER
+  compatible_look_direction: false
+  rotation_fly_mode: OFFHAND
+  sprintThreshold: 0.9
+immersion:
+  room_jump: true
+  advanced:
+    room_sneak:
+      threshold: 0.85
+    room_crawl:
+      threshold: 0.7
+    room_jump:
+      threshold: 1.05
+  room_consume: true
+  room_dismount_vehicle: true
+  room_climb: true
+  room_crawl: true
+  room_sneak: true
+  room_swim: true
+controls:
+  left_handed: false
+main_menu:
+  panorama:
+    up: visor:textures/mainmenu/panorama_up.png
+    below: visor:textures/mainmenu/panorama_below.png
+    back: visor:textures/mainmenu/panorama_back.png
+    left: visor:textures/mainmenu/panorama_left.png
+    front: visor:textures/mainmenu/panorama_front.png
+    right: visor:textures/mainmenu/panorama_right.png
+  scene: SKY
+  floor: minecraft:textures/block/moss_block.png
+gui:
+  hud_disabled_hotbar: true
+  keyboard:
+    layouts: ENGLISH
+    auto_layout: true
+  settings_text_scale: 0.9
+  scale: 0.0
+  shader_gui_render: AFTER_SHADER
+player:
+  full_height: 1.52
+playerModelArmsScale: 0.5
+playerModelLegScale: 1.0
+defaultVrBody: hands_only
+playerModelBodyScale: 1.0
+vrPlayMode: DISABLED
