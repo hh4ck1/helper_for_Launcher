@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "packId": "imperfect-salvation",
-  "packVersion": "0.1.118",
+  "packVersion": "0.1.119",
   "minecraft": {
     "version": "1.20.1",
     "fabricLoaderVersion": "0.19.3",
@@ -16,7 +16,7 @@
   "files": [
     {
       "path": "components/.packages/sender.zip",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/components/.packages/sender.zip",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/components/.packages/sender.zip",
       "size": 38063493,
       "sha256": "a096ee82ef084c67514e607198b54c49521c1b8506efffed084290b9a36975c0",
       "kind": "other",
@@ -25,7 +25,7 @@
     },
     {
       "path": "mods/alloy-forgery-2.1.2\u002B1.20.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/alloy-forgery-2.1.2%2B1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/alloy-forgery-2.1.2%2B1.20.jar",
       "size": 256944,
       "sha256": "eae8e06513c458f8aba8396188078a22e2c65f1228f48f5288d1755439518666",
       "kind": "mod",
@@ -34,7 +34,7 @@
     },
     {
       "path": "mods/Animation_Overhaul-fabric-1.20.x-1.3.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/Animation_Overhaul-fabric-1.20.x-1.3.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/Animation_Overhaul-fabric-1.20.x-1.3.1.jar",
       "size": 263171,
       "sha256": "9d1c4f08141605934667bd5410a5d1e51a54a535c66229db7925842a322e360d",
       "kind": "mod",
@@ -43,7 +43,7 @@
     },
     {
       "path": "mods/architectury-9.2.14-fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/architectury-9.2.14-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/architectury-9.2.14-fabric.jar",
       "size": 585207,
       "sha256": "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321",
       "kind": "mod",
@@ -52,7 +52,7 @@
     },
     {
       "path": "mods/athena-fabric-1.20.1-3.1.2.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/athena-fabric-1.20.1-3.1.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/athena-fabric-1.20.1-3.1.2.jar",
       "size": 74370,
       "sha256": "da18e81a3b72263a67c40e325537c587b48fff2fabb625c612ca4d7c2f386ecd",
       "kind": "mod",
@@ -61,7 +61,7 @@
     },
     {
       "path": "mods/badpackets-fabric-0.4.3.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/badpackets-fabric-0.4.3.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/badpackets-fabric-0.4.3.jar",
       "size": 27655,
       "sha256": "4a6b84ce20d7a35d17ef86fe29417de6f25704f478ee2f5f92c7c2ee76ea899e",
       "kind": "mod",
@@ -70,7 +70,7 @@
     },
     {
       "path": "mods/bettercombat-fabric-1.9.0\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/bettercombat-fabric-1.9.0%2B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/bettercombat-fabric-1.9.0%2B1.20.1.jar",
       "size": 907055,
       "sha256": "c1b680dd03d3af3bf670cf0d024d58bd06360f5b0818eabfec6d7c8e6a11ec07",
       "kind": "mod",
@@ -79,7 +79,7 @@
     },
     {
       "path": "mods/BetterTrims-3.2.8-fabric\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/BetterTrims-3.2.8-fabric%2B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/BetterTrims-3.2.8-fabric%2B1.20.1.jar",
       "size": 735026,
       "sha256": "6d098b0552c56b776d1f176ce05bf79c6a56a47445700ac559e0588bc03c73ca",
       "kind": "mod",
@@ -88,7 +88,7 @@
     },
     {
       "path": "mods/Botania-1.20.1-454-FABRIC.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/Botania-1.20.1-454-FABRIC.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/Botania-1.20.1-454-FABRIC.jar",
       "size": 12657307,
       "sha256": "092288ff93c685541fb74601dcb310bdb5c47a99b2dd78e597aa86a65636bbc3",
       "kind": "mod",
@@ -97,7 +97,7 @@
     },
     {
       "path": "mods/CameraOverhaul-v2.1.1-fabric\u002Bmc[1.20-1.20.5].jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/CameraOverhaul-v2.1.1-fabric%2Bmc%5B1.20-1.20.5%5D.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/CameraOverhaul-v2.1.1-fabric%2Bmc%5B1.20-1.20.5%5D.jar",
       "size": 140053,
       "sha256": "e6cdacdf1927a5cbd0b30c5e20cf0ab0c693c9016de1c17033e6199ef32c4ed3",
       "kind": "mod",
@@ -106,7 +106,7 @@
     },
     {
       "path": "mods/camerautils-1.20.1-1.0.5.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/camerautils-1.20.1-1.0.5.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/camerautils-1.20.1-1.0.5.jar",
       "size": 294528,
       "sha256": "2765ad6bee67afb00392e8ec5f16a81b72d84a57be37d2c76dd8e67cbbc8872c",
       "kind": "mod",
@@ -115,7 +115,7 @@
     },
     {
       "path": "mods/carryon-fabric-1.20.1-2.1.2.7.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/carryon-fabric-1.20.1-2.1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/carryon-fabric-1.20.1-2.1.2.7.jar",
       "size": 443033,
       "sha256": "8d25fb164fc4cc15cd9123a915c880c55527efe3fec26b2c7febf09e65c6ebdd",
       "kind": "mod",
@@ -124,7 +124,7 @@
     },
     {
       "path": "mods/cc-tweaked-1.20.1-fabric-1.120.0.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/cc-tweaked-1.20.1-fabric-1.120.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/cc-tweaked-1.20.1-fabric-1.120.0.jar",
       "size": 3612484,
       "sha256": "9b959aacf17bf7128f04abf916817ea2ada98754fc826d7f14f4bb8e69adf7e1",
       "kind": "mod",
@@ -133,7 +133,7 @@
     },
     {
       "path": "mods/ccccc-fabric-1.0.3.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/ccccc-fabric-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/ccccc-fabric-1.0.3.jar",
       "size": 253704,
       "sha256": "1c8d0b389a3b872b99e0bc7a09da8b3d815355a3adda3b126fa393586b64f7f3",
       "kind": "mod",
@@ -142,7 +142,7 @@
     },
     {
       "path": "mods/chisel-fabric-2.0.0\u002Bmc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/chisel-fabric-2.0.0%2Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/chisel-fabric-2.0.0%2Bmc1.20.1.jar",
       "size": 8268711,
       "sha256": "c328a6a27dd174463721de02fdd292db029eb42a51d6979ef50e71b97c2caac8",
       "kind": "mod",
@@ -151,7 +151,7 @@
     },
     {
       "path": "mods/Chunky-1.3.146.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/Chunky-1.3.146.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/Chunky-1.3.146.jar",
       "size": 344004,
       "sha256": "ae7fb9d35a3a9d9d4f2104aeae7b31a901c5e5842891e2edd9ddcc42c2646a38",
       "kind": "mod",
@@ -160,7 +160,7 @@
     },
     {
       "path": "mods/cicada-lib-0.14.3\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/cicada-lib-0.14.3%2B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/cicada-lib-0.14.3%2B1.20.1.jar",
       "size": 381708,
       "sha256": "ab3bb261662b1c928b2aab29ec9e1eeb48eeb166726f65a35a4a83a8415fe4f4",
       "kind": "mod",
@@ -169,7 +169,7 @@
     },
     {
       "path": "mods/CigarCrafter.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/CigarCrafter.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/CigarCrafter.jar",
       "size": 56420,
       "sha256": "f1e4a13a8606e188766a90856eed3447c47fe56b6de2d67a3ca6cf7f7ad76ceb",
       "kind": "mod",
@@ -178,7 +178,7 @@
     },
     {
       "path": "mods/citresewn-1.1.5\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/citresewn-1.1.5%2B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/citresewn-1.1.5%2B1.20.1.jar",
       "size": 391752,
       "sha256": "2ec0eb618d085c7ff35531e8362523df36e9496f562023193651c711ba5b7cfc",
       "kind": "mod",
@@ -187,7 +187,7 @@
     },
     {
       "path": "mods/cloth-config-11.1.136-fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/cloth-config-11.1.136-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/cloth-config-11.1.136-fabric.jar",
       "size": 1172214,
       "sha256": "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa",
       "kind": "mod",
@@ -196,7 +196,7 @@
     },
     {
       "path": "mods/comforts-fabric-6.4.0\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/comforts-fabric-6.4.0%2B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/comforts-fabric-6.4.0%2B1.20.1.jar",
       "size": 693624,
       "sha256": "f9852a749b5154cbb0e97651cd0a1718382fcdfebdea86813bb118b16ee1096b",
       "kind": "mod",
@@ -205,7 +205,7 @@
     },
     {
       "path": "mods/Configurable-2.2.3-fabric-yarn\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/Configurable-2.2.3-fabric-yarn%2B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/Configurable-2.2.3-fabric-yarn%2B1.20.1.jar",
       "size": 643570,
       "sha256": "2e04886a23ea3c0ca05f26a3bc56be61c379482b5f35cf89c134d1c67675d0a3",
       "kind": "mod",
@@ -214,7 +214,7 @@
     },
     {
       "path": "mods/connectedglass-1.1.14-fabric-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/connectedglass-1.1.14-fabric-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/connectedglass-1.1.14-fabric-mc1.20.1.jar",
       "size": 845048,
       "sha256": "d9468811d7e694878883cead5cc378d26c6a9054567d6025f1dcb73053ef227f",
       "kind": "mod",
@@ -223,7 +223,7 @@
     },
     {
       "path": "mods/create-fabric-6.0.8.1\u002Bbuild.1744-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/create-fabric-6.0.8.1%2Bbuild.1744-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/create-fabric-6.0.8.1%2Bbuild.1744-mc1.20.1.jar",
       "size": 32189889,
       "sha256": "a613603fb08d967c5a4138d1adb7374c4a347b91e489fe21579a4cff4f40105a",
       "kind": "mod",
@@ -232,7 +232,7 @@
     },
     {
       "path": "mods/create-new-age-1.2.0\u002Bfabric-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/create-new-age-1.2.0%2Bfabric-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/create-new-age-1.2.0%2Bfabric-mc1.20.1.jar",
       "size": 1041544,
       "sha256": "228274f7cd9e65e5f303eb0d4e6e11ae88106e2a9e216d28f0983e678e3f64d1",
       "kind": "mod",
@@ -241,7 +241,7 @@
     },
     {
       "path": "mods/createaddition-fabric\u002B1.20.1-1.3.4.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/createaddition-fabric%2B1.20.1-1.3.4.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/createaddition-fabric%2B1.20.1-1.3.4.jar",
       "size": 1647722,
       "sha256": "619a285af56bca4f05bfd1a9c83beb1a29ef3222b66c648ed2e398b99f07002e",
       "kind": "mod",
@@ -250,7 +250,7 @@
     },
     {
       "path": "mods/createthreadedtrains-fabric-1.20.1-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/createthreadedtrains-fabric-1.20.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/createthreadedtrains-fabric-1.20.1-1.0.0.jar",
       "size": 77441,
       "sha256": "dfcfa81d06198885f7e5bf40fcdc25a3f40927589d4d65da84caac9b674350f0",
       "kind": "mod",
@@ -259,7 +259,7 @@
     },
     {
       "path": "mods/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
       "size": 227202,
       "sha256": "712bc4bef28eb83737d8aec23219b618c0adc267c5cf6f250f999c1481762db1",
       "kind": "mod",
@@ -268,7 +268,7 @@
     },
     {
       "path": "mods/cryonicconfig-fabric-1.0.0\u002Bmc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/cryonicconfig-fabric-1.0.0%2Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/cryonicconfig-fabric-1.0.0%2Bmc1.20.1.jar",
       "size": 21404,
       "sha256": "7d8026ecedf5e48690382b3b00311ec02027b145f4f1cd713f3ec3e6276ec9b4",
       "kind": "mod",
@@ -277,7 +277,7 @@
     },
     {
       "path": "mods/customname-0.2.4-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/customname-0.2.4-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/customname-0.2.4-1.20.1.jar",
       "size": 44884,
       "sha256": "1925d4e56b6053e34489d14360f48caba8cf6f1f94aedfd9beab2f2d2740551f",
       "kind": "mod",
@@ -286,7 +286,7 @@
     },
     {
       "path": "mods/CustomSkinLoader_Universal-15.0.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/CustomSkinLoader_Universal-15.0.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/CustomSkinLoader_Universal-15.0.1.jar",
       "size": 218215,
       "sha256": "026d8b38ea93edccd647f60568193e79801a377b7bd4e916dcfc0d5482b767fc",
       "kind": "mod",
@@ -295,7 +295,7 @@
     },
     {
       "path": "mods/dynamic-fps-3.11.4\u002Bminecraft-1.20.0-fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/dynamic-fps-3.11.4%2Bminecraft-1.20.0-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/dynamic-fps-3.11.4%2Bminecraft-1.20.0-fabric.jar",
       "size": 223261,
       "sha256": "d143dcde4680fc9bd706b535728b04ff973e099bd5477f87ffa399eef76619ab",
       "kind": "mod",
@@ -304,7 +304,7 @@
     },
     {
       "path": "mods/emi-1.1.24\u002B1.20.1\u002Bfabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/emi-1.1.24%2B1.20.1%2Bfabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/emi-1.1.24%2B1.20.1%2Bfabric.jar",
       "size": 1124008,
       "sha256": "537b062e0dc6f028cf84cf66a473ed1b8842219a708d17cdb292401441b0f367",
       "kind": "mod",
@@ -313,7 +313,7 @@
     },
     {
       "path": "mods/emiffect-fabric-2.1.6\u002Bmc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/emiffect-fabric-2.1.6%2Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/emiffect-fabric-2.1.6%2Bmc1.20.1.jar",
       "size": 38744,
       "sha256": "f74ea12bf423fe4b125bc35e3e65e7c3d7d29d59ab82a1d272b63c2a5698b571",
       "kind": "mod",
@@ -322,7 +322,7 @@
     },
     {
       "path": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
       "size": 873611,
       "sha256": "e8c5fc2d618008a0ef52728508909945315bb9bf99d78f1478ec42cef502a4e0",
       "kind": "mod",
@@ -331,7 +331,7 @@
     },
     {
       "path": "mods/enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar",
       "size": 233651,
       "sha256": "27edcceb54b33d733e83856c59a01bb9e2d9fa555c108a0893c343b542e823b8",
       "kind": "mod",
@@ -340,7 +340,7 @@
     },
     {
       "path": "mods/enhanced-groups-1.20.1-1.3.0.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/enhanced-groups-1.20.1-1.3.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/enhanced-groups-1.20.1-1.3.0.jar",
       "size": 243908,
       "sha256": "ed73f034b281b1d725588ffe8994844c93981b736955e5e23b11b4b4bf583cdb",
       "kind": "mod",
@@ -349,7 +349,7 @@
     },
     {
       "path": "mods/entity-view-distance-1.1.2\u002B1.20.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/entity-view-distance-1.1.2%2B1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/entity-view-distance-1.1.2%2B1.20.jar",
       "size": 245942,
       "sha256": "f4bca1ec5cf5035b8789b0f03461e1bc0c4491f4359558a4bc869d6eaa0564aa",
       "kind": "mod",
@@ -358,7 +358,7 @@
     },
     {
       "path": "mods/entityculling-fabric-1.10.5-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/entityculling-fabric-1.10.5-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/entityculling-fabric-1.10.5-mc1.20.1.jar",
       "size": 1592562,
       "sha256": "cb4deb2a823c83af98fcc06e92807913b482de54981d1657a29882dc1fd4665c",
       "kind": "mod",
@@ -367,7 +367,7 @@
     },
     {
       "path": "mods/entity_model_features-3.2.4-1.20.1-fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/entity_model_features-3.2.4-1.20.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/entity_model_features-3.2.4-1.20.1-fabric.jar",
       "size": 565302,
       "sha256": "febf97ce4bdaacea15dd502814c54ce42d72a98031a44c434a3b7dfdb3d769d3",
       "kind": "mod",
@@ -376,7 +376,7 @@
     },
     {
       "path": "mods/entity_texture_features_1.20.1-fabric-7.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/entity_texture_features_1.20.1-fabric-7.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/entity_texture_features_1.20.1-fabric-7.1.jar",
       "size": 753298,
       "sha256": "00345f64b4cbd07edca8d4427d637febe7ae4202b37526dde0e00dda1a557014",
       "kind": "mod",
@@ -385,7 +385,7 @@
     },
     {
       "path": "mods/eventwrapper-fabric-1.20.1-1.1.4.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/eventwrapper-fabric-1.20.1-1.1.4.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/eventwrapper-fabric-1.20.1-1.1.4.jar",
       "size": 1591701,
       "sha256": "c820d64749fd2c24076b7ea6615ce71d36ca1f4e44e23466acb40ef0adc7985b",
       "kind": "mod",
@@ -394,7 +394,7 @@
     },
     {
       "path": "mods/exposure-1.20.1-1.7.16-fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/exposure-1.20.1-1.7.16-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/exposure-1.20.1-1.7.16-fabric.jar",
       "size": 1342392,
       "sha256": "c928456e3078c051d48177afbcc98658767db84cbad9c3198522c67ac52d5571",
       "kind": "mod",
@@ -403,7 +403,7 @@
     },
     {
       "path": "mods/extrabotany-fabric-1.20.1-1.9.2.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/extrabotany-fabric-1.20.1-1.9.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/extrabotany-fabric-1.20.1-1.9.2.jar",
       "size": 4092706,
       "sha256": "51dab6e80ebd89136fe27c3418155a3f92abdb845979c53daf6b21483a5dcefb",
       "kind": "mod",
@@ -412,7 +412,7 @@
     },
     {
       "path": "mods/fabric-api-0.92.9\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/fabric-api-0.92.9%2B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/fabric-api-0.92.9%2B1.20.1.jar",
       "size": 2111565,
       "sha256": "4056979ccaa1012354dfff14f39fdb085aefb3f1e0224ff45c3af41e4ffed5fd",
       "kind": "mod",
@@ -421,7 +421,7 @@
     },
     {
       "path": "mods/fabric-carpet-1.20-1.4.112\u002Bv230608.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/fabric-carpet-1.20-1.4.112%2Bv230608.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/fabric-carpet-1.20-1.4.112%2Bv230608.jar",
       "size": 1577482,
       "sha256": "00ad0ed15c457fdec0e6eefe84d79e1bb7b8f91f5f3a133cf89cb2b60ffb3d11",
       "kind": "mod",
@@ -430,7 +430,7 @@
     },
     {
       "path": "mods/fabric-language-kotlin-1.13.12\u002Bkotlin.2.4.0.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
       "size": 8076848,
       "sha256": "36c5dd8b728e3470d2882ae63119b93a20500fc0ea6f5c945c12bf65b5ab1832",
       "kind": "mod",
@@ -439,7 +439,7 @@
     },
     {
       "path": "mods/factory_blocks-fabric-1.4.0\u002Bmc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/factory_blocks-fabric-1.4.0%2Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/factory_blocks-fabric-1.4.0%2Bmc1.20.1.jar",
       "size": 807679,
       "sha256": "433614a6499e45cbcc715014e4b12e52b10527255f5908196ae1f98f440fc079",
       "kind": "mod",
@@ -448,7 +448,7 @@
     },
     {
       "path": "mods/fantasy_armor-fabric-1.2.4-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/fantasy_armor-fabric-1.2.4-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/fantasy_armor-fabric-1.2.4-1.20.1.jar",
       "size": 544403,
       "sha256": "baaf7b076d24aa6b92904474964af82c5284c96ad9c6dfc1378ca71719faf3eb",
       "kind": "mod",
@@ -457,7 +457,7 @@
     },
     {
       "path": "mods/FarmersDelight-1.20.1-2.4.1\u002Brefabricated.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/FarmersDelight-1.20.1-2.4.1%2Brefabricated.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/FarmersDelight-1.20.1-2.4.1%2Brefabricated.jar",
       "size": 8056758,
       "sha256": "81d78e10b58e220bffbe4932de5486ac2127efc37908e89161237a34f0828fac",
       "kind": "mod",
@@ -466,7 +466,7 @@
     },
     {
       "path": "mods/ferritecore-6.0.1-fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/ferritecore-6.0.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/ferritecore-6.0.1-fabric.jar",
       "size": 125197,
       "sha256": "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24",
       "kind": "mod",
@@ -475,7 +475,7 @@
     },
     {
       "path": "mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
       "size": 396628,
       "sha256": "337a8f6c5ba48ef3b3da828f4f6a75d0552ba33f48ce97d3195befdb570e427a",
       "kind": "mod",
@@ -484,7 +484,7 @@
     },
     {
       "path": "mods/framework-fabric-1.20.1-0.7.12.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/framework-fabric-1.20.1-0.7.12.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/framework-fabric-1.20.1-0.7.12.jar",
       "size": 1393788,
       "sha256": "d27d27e6eb3eb0f1926b0a3ac5b99efa853d583c0114ae78fd3e36eb5dccbe36",
       "kind": "mod",
@@ -493,7 +493,7 @@
     },
     {
       "path": "mods/fusion-1.3.12-fabric-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/fusion-1.3.12-fabric-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/fusion-1.3.12-fabric-mc1.20.1.jar",
       "size": 908483,
       "sha256": "5f049ede601d92d862f7a923cec13aef855f79362cbaed437aced7442af1577e",
       "kind": "mod",
@@ -502,7 +502,7 @@
     },
     {
       "path": "mods/fzzy_config-0.7.6\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/fzzy_config-0.7.6%2B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/fzzy_config-0.7.6%2B1.20.1.jar",
       "size": 2372585,
       "sha256": "faa76d1ad670041d88cebd4eeda8e804bcd99289e755336fc1df4a066cfdbc8c",
       "kind": "mod",
@@ -511,7 +511,7 @@
     },
     {
       "path": "mods/geckolib-fabric-1.20.1-4.8.4.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/geckolib-fabric-1.20.1-4.8.4.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/geckolib-fabric-1.20.1-4.8.4.jar",
       "size": 969016,
       "sha256": "ee8495a8db7a83aa63e8ef248d4eadda665ff57c5911b8e59fd608806137baa6",
       "kind": "mod",
@@ -520,7 +520,7 @@
     },
     {
       "path": "mods/gravestones-1.4.1\u002B1.20\u002BA.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/gravestones-1.4.1%2B1.20%2BA.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/gravestones-1.4.1%2B1.20%2BA.jar",
       "size": 288943,
       "sha256": "6e45c6267e26bf0636d8641dd11758bcf2dd142189e319decf3b90ab88aa6cdb",
       "kind": "mod",
@@ -529,7 +529,7 @@
     },
     {
       "path": "mods/imperfect-vihicle-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/imperfect-vihicle-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/imperfect-vihicle-1.20.1.jar",
       "size": 1886641,
       "sha256": "553374fe280c27d2833b566749eb69ce4605c8019048137b59c42ee03ea9081d",
       "kind": "mod",
@@ -538,7 +538,7 @@
     },
     {
       "path": "mods/imperfect-vivecraft-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/imperfect-vivecraft-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/imperfect-vivecraft-1.20.1.jar",
       "size": 12518,
       "sha256": "30f6bce3ca57f54acb973acbdf67b38001bc0fa641d37c5af0ecf3029b49eec1",
       "kind": "mod",
@@ -547,16 +547,16 @@
     },
     {
       "path": "mods/Imperfect_salvation.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/Imperfect_salvation.jar",
-      "size": 3671983,
-      "sha256": "ab913c4816ab200b2bf55b8794bed50a9e66e53aa0907b5414cd86bc8971e928",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/Imperfect_salvation.jar",
+      "size": 3727947,
+      "sha256": "d64d659af062a1f50908a0d996623c41fde45a4e0b84fdba4548619d32f7c5d9",
       "kind": "mod",
       "side": "client",
       "required": true
     },
     {
       "path": "mods/indium-1.0.36\u002Bmc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/indium-1.0.36%2Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/indium-1.0.36%2Bmc1.20.1.jar",
       "size": 105382,
       "sha256": "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
       "kind": "mod",
@@ -565,7 +565,7 @@
     },
     {
       "path": "mods/iris-1.7.6\u002Bmc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/iris-1.7.6%2Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/iris-1.7.6%2Bmc1.20.1.jar",
       "size": 2726899,
       "sha256": "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
       "kind": "mod",
@@ -574,7 +574,7 @@
     },
     {
       "path": "mods/jei-1.20.1-fabric-15.20.0.132.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/jei-1.20.1-fabric-15.20.0.132.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/jei-1.20.1-fabric-15.20.0.132.jar",
       "size": 1422619,
       "sha256": "c50c80f9f8106a86baf41f8f4fa2ab2dbd3ee948a891ba7d67c1bf896ef8795e",
       "kind": "mod",
@@ -583,7 +583,7 @@
     },
     {
       "path": "mods/justhammers-fabric-20.1.5\u002Bmc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/justhammers-fabric-20.1.5%2Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/justhammers-fabric-20.1.5%2Bmc1.20.1.jar",
       "size": 90255,
       "sha256": "7c566bdc6d18af12ba9160a7469526ac815be2c3f5e75accb673261b79fcbc65",
       "kind": "mod",
@@ -592,7 +592,7 @@
     },
     {
       "path": "mods/Kiwi-1.20.1-Fabric-11.10.3.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/Kiwi-1.20.1-Fabric-11.10.3.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/Kiwi-1.20.1-Fabric-11.10.3.jar",
       "size": 1549136,
       "sha256": "b853e2c654a14843806d8adb9ec5d0434bd95a225feb7f4c458595aa57cdf7bc",
       "kind": "mod",
@@ -601,7 +601,7 @@
     },
     {
       "path": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
       "size": 892067,
       "sha256": "f87fc3ab29a8df63a5214fdfa58d2f9fa645255af64d38ba598a9f56fafccdb6",
       "kind": "mod",
@@ -610,7 +610,7 @@
     },
     {
       "path": "mods/lambdynamiclights-4.4.0\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/lambdynamiclights-4.4.0%2B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/lambdynamiclights-4.4.0%2B1.20.1.jar",
       "size": 1114373,
       "sha256": "074d6c79e002790b696ebcfdd4ff2a2d57ec55228f93b47e952eeebd5baf5301",
       "kind": "mod",
@@ -619,7 +619,7 @@
     },
     {
       "path": "mods/language-reload-1.7.5\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/language-reload-1.7.5%2B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/language-reload-1.7.5%2B1.20.1.jar",
       "size": 73012,
       "sha256": "bfe158c575a9d31faf94019beb62a7fa6ef0ed75cdf19cf4a5356e0e755cc332",
       "kind": "mod",
@@ -628,7 +628,7 @@
     },
     {
       "path": "mods/lavender-0.1.9\u002B1.20.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/lavender-0.1.9%2B1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/lavender-0.1.9%2B1.20.jar",
       "size": 523368,
       "sha256": "3f0329a0f7133ed2d854a6a739de1ecbc93c1b563f00c911243689b912a96795",
       "kind": "mod",
@@ -637,7 +637,7 @@
     },
     {
       "path": "mods/lexiconfig-fabric-1.4.21-epic.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/lexiconfig-fabric-1.4.21-epic.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/lexiconfig-fabric-1.4.21-epic.jar",
       "size": 277460,
       "sha256": "d184dc3f4e40aa2629a44f2eca11d34a7ae03cbf72415b6440abd7de3d95149a",
       "kind": "mod",
@@ -646,7 +646,7 @@
     },
     {
       "path": "mods/Modern-Dynamics-0.7.0-beta.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/Modern-Dynamics-0.7.0-beta.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/Modern-Dynamics-0.7.0-beta.jar",
       "size": 649304,
       "sha256": "f2e564f97d0b1760a677234061f9b211f4a5309d638120896e62bb34b3f74b3b",
       "kind": "mod",
@@ -655,7 +655,7 @@
     },
     {
       "path": "mods/Modern-Industrialization-1.8.6.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/Modern-Industrialization-1.8.6.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/Modern-Industrialization-1.8.6.jar",
       "size": 7223370,
       "sha256": "a82a4e2bd76f9625cf398e555f4c6b6aea696e7d40d2422ba1a7d3909476370b",
       "kind": "mod",
@@ -664,7 +664,7 @@
     },
     {
       "path": "mods/modernfix-fabric-5.25.2\u002Bmc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/modernfix-fabric-5.25.2%2Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/modernfix-fabric-5.25.2%2Bmc1.20.1.jar",
       "size": 545175,
       "sha256": "5c1f852046e62a17056bb6b571164e61644076c5eb9029c92b31e337cc62c0d9",
       "kind": "mod",
@@ -673,7 +673,7 @@
     },
     {
       "path": "mods/modmenu-7.2.2.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/modmenu-7.2.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/modmenu-7.2.2.jar",
       "size": 721366,
       "sha256": "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a",
       "kind": "mod",
@@ -682,7 +682,7 @@
     },
     {
       "path": "mods/moonlight-1.20-2.16.34-fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/moonlight-1.20-2.16.34-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/moonlight-1.20-2.16.34-fabric.jar",
       "size": 1391142,
       "sha256": "f18d37d6fdd6439c95d9c237659c782b84bf67f11131d6e8514fa84edbf4d6fc",
       "kind": "mod",
@@ -691,7 +691,7 @@
     },
     {
       "path": "mods/moss-layers-1.20-2.1.0.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/moss-layers-1.20-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/moss-layers-1.20-2.1.0.jar",
       "size": 918146,
       "sha256": "d00365f5529d69846b6fc7fee62d36d6653348d9d30a63141ad55d2ef2ac9cbc",
       "kind": "mod",
@@ -700,7 +700,7 @@
     },
     {
       "path": "mods/mouse-wheelie-1.16.3\u002Bmc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/mouse-wheelie-1.16.3%2Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/mouse-wheelie-1.16.3%2Bmc1.20.1.jar",
       "size": 1121853,
       "sha256": "2d84081287ee69c775a7d24c6dd5fe6a4fcd53d905261be4e8bc79a1a839b2f0",
       "kind": "mod",
@@ -709,7 +709,7 @@
     },
     {
       "path": "mods/Necronomicon-Fabric-1.4.2.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/Necronomicon-Fabric-1.4.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/Necronomicon-Fabric-1.4.2.jar",
       "size": 56083,
       "sha256": "e9672731e310e8d93813f06fed60e8d3c4877d782a99c284d7b1100bb38503b8",
       "kind": "mod",
@@ -718,7 +718,7 @@
     },
     {
       "path": "mods/neepmeat-0.31.1-beta\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/neepmeat-0.31.1-beta%2B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/neepmeat-0.31.1-beta%2B1.20.1.jar",
       "size": 35982763,
       "sha256": "a1499d3c787e725c6801ea170038cd607b0b942e556a22343f3c173af026109a",
       "kind": "mod",
@@ -727,7 +727,7 @@
     },
     {
       "path": "mods/otterlib-0.2.2.0\u002B1.20.1-fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/otterlib-0.2.2.0%2B1.20.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/otterlib-0.2.2.0%2B1.20.1-fabric.jar",
       "size": 678140,
       "sha256": "7b8a5571cc36734b1a1658ba1b4fedf8d4e4e50822cd4237a363f39fa022f939",
       "kind": "mod",
@@ -736,7 +736,7 @@
     },
     {
       "path": "mods/owo-lib-0.11.2\u002B1.20.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/owo-lib-0.11.2%2B1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/owo-lib-0.11.2%2B1.20.jar",
       "size": 905421,
       "sha256": "1c249c30d3e50bba5cb35e0c3acebf4bd5f969bd33402de2f3a6a619fd688d12",
       "kind": "mod",
@@ -745,7 +745,7 @@
     },
     {
       "path": "mods/player-animation-lib-fabric-1.0.2-rc1\u002B1.20.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar",
       "size": 181008,
       "sha256": "0b10021fa638997398110777747726b1cb7a27bc3f8ff1b12e2b93ac01784018",
       "kind": "mod",
@@ -754,7 +754,7 @@
     },
     {
       "path": "mods/pneumonocore-1.3.1\u002B1.20\u002BA.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/pneumonocore-1.3.1%2B1.20%2BA.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/pneumonocore-1.3.1%2B1.20%2BA.jar",
       "size": 161816,
       "sha256": "23ab651aeae0bd2d60bb38fa57ea4b6c68bf1cab03a8ed264408440bc90f6dff",
       "kind": "mod",
@@ -763,7 +763,7 @@
     },
     {
       "path": "mods/powergrid-mc1.20.1-0.5.4.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/powergrid-mc1.20.1-0.5.4.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/powergrid-mc1.20.1-0.5.4.1.jar",
       "size": 5946390,
       "sha256": "0db4166e71d767b3f4a7c7c8a6db2ad912307c4b889b5570cc9a1baabb8b7601",
       "kind": "mod",
@@ -772,7 +772,7 @@
     },
     {
       "path": "mods/radio-1.1.1\u002B1.20.1.fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/radio-1.1.1%2B1.20.1.fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/radio-1.1.1%2B1.20.1.fabric.jar",
       "size": 349684,
       "sha256": "1ced1ce74fe75b913333e8feb4e57faaa621023f608c031d3afada97d6ed8545",
       "kind": "mod",
@@ -781,7 +781,7 @@
     },
     {
       "path": "mods/ReFramed-1.6.6.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/ReFramed-1.6.6.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/ReFramed-1.6.6.jar",
       "size": 758876,
       "sha256": "fa46ce2002368c52501832573812e51f4bdc205ce6c45a310cce1747fe1376a8",
       "kind": "mod",
@@ -790,7 +790,7 @@
     },
     {
       "path": "mods/refurbished_furniture-fabric-1.20.1-1.0.12.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/refurbished_furniture-fabric-1.20.1-1.0.12.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/refurbished_furniture-fabric-1.20.1-1.0.12.jar",
       "size": 6667835,
       "sha256": "8fc54291d2c2640f9c7029165a536423a7d6fea2218fbc055add8abe7ee17636",
       "kind": "mod",
@@ -799,7 +799,7 @@
     },
     {
       "path": "mods/replaymod-1.20.1-2.6.23.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/replaymod-1.20.1-2.6.23.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/replaymod-1.20.1-2.6.23.jar",
       "size": 14739015,
       "sha256": "a46491d73456187ac888d31f6cc1160e42304427a63da88874c84abeb4d14033",
       "kind": "mod",
@@ -808,7 +808,7 @@
     },
     {
       "path": "mods/show-me-your-skin-1.9.0\u002B1.20.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/show-me-your-skin-1.9.0%2B1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/show-me-your-skin-1.9.0%2B1.20.jar",
       "size": 262295,
       "sha256": "7145f140d00c7d58bf73fb2d1cd161d22df450aa1cc87a136df51fdc1192b100",
       "kind": "mod",
@@ -817,7 +817,7 @@
     },
     {
       "path": "mods/simpleradio-fabric-1.20.1-4.5.7.9.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/simpleradio-fabric-1.20.1-4.5.7.9.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/simpleradio-fabric-1.20.1-4.5.7.9.jar",
       "size": 1006134,
       "sha256": "667528f774ba38426ad8bcbea5db260ec0841316b38e56302cb47037445066e8",
       "kind": "mod",
@@ -826,7 +826,7 @@
     },
     {
       "path": "mods/simplyswords-fabric-1.56.0-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/simplyswords-fabric-1.56.0-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/simplyswords-fabric-1.56.0-1.20.1.jar",
       "size": 15366470,
       "sha256": "ddbaf8ab85a6b003a817d0c0e817dcbdf9fcfe6b889c729ff72c4b6a3b1f3e9a",
       "kind": "mod",
@@ -835,7 +835,7 @@
     },
     {
       "path": "mods/skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
       "size": 1988537,
       "sha256": "9f76e7018eca0a20bb6c4f269d7192e14beba375f7fb9064425804d6fbdaab96",
       "kind": "mod",
@@ -844,7 +844,7 @@
     },
     {
       "path": "mods/sliceanddice-fabric-3.5.2.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/sliceanddice-fabric-3.5.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/sliceanddice-fabric-3.5.2.jar",
       "size": 395717,
       "sha256": "635a9f9595866dce034fda201bf8b4633660b8a259d67426e336d8b9e96691a0",
       "kind": "mod",
@@ -853,7 +853,7 @@
     },
     {
       "path": "mods/sodium-extra-0.5.9\u002Bmc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/sodium-extra-0.5.9%2Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/sodium-extra-0.5.9%2Bmc1.20.1.jar",
       "size": 370701,
       "sha256": "5cae656838b595e27d5133264374e5d90f5f35a39e343bfc5a76b908fec97c9f",
       "kind": "mod",
@@ -862,7 +862,7 @@
     },
     {
       "path": "mods/sodium-fabric-0.5.13\u002Bmc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/sodium-fabric-0.5.13%2Bmc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/sodium-fabric-0.5.13%2Bmc1.20.1.jar",
       "size": 971552,
       "sha256": "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
       "kind": "mod",
@@ -871,7 +871,7 @@
     },
     {
       "path": "mods/sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar",
       "size": 986101,
       "sha256": "1e4e268d079ebef8a21f41f6a7a35528435733a124a134e3ef240389f3aa87c1",
       "kind": "mod",
@@ -880,7 +880,7 @@
     },
     {
       "path": "mods/sophisticatedcore-1.20.1-1.2.7.15.166.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/sophisticatedcore-1.20.1-1.2.7.15.166.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/sophisticatedcore-1.20.1-1.2.7.15.166.jar",
       "size": 2858683,
       "sha256": "dafca4311f94ed5eff18f34077e7ab91a169863a4bde2cc82ae525d869ee9396",
       "kind": "mod",
@@ -889,7 +889,7 @@
     },
     {
       "path": "mods/sophisticatedstorage-1.20.1-1.3.5.11.142.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/sophisticatedstorage-1.20.1-1.3.5.11.142.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/sophisticatedstorage-1.20.1-1.3.5.11.142.jar",
       "size": 1676141,
       "sha256": "ac2c27d12028b223306d730bd66b798f3f9762990ac3a4ec2510387c737d1e84",
       "kind": "mod",
@@ -898,7 +898,7 @@
     },
     {
       "path": "mods/sound-physics-remastered-fabric-1.20.1-1.4.10.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/sound-physics-remastered-fabric-1.20.1-1.4.10.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/sound-physics-remastered-fabric-1.20.1-1.4.10.jar",
       "size": 202462,
       "sha256": "e3a8a509a53202e487be3d42faa32bd52c7e8c7a9cc4097abb8a3d26d85ef24b",
       "kind": "mod",
@@ -907,7 +907,7 @@
     },
     {
       "path": "mods/spyglass_improvements-fabric-1.5.12\u002Bmc1.20\u002Bfabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/spyglass_improvements-fabric-1.5.12%2Bmc1.20%2Bfabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/spyglass_improvements-fabric-1.5.12%2Bmc1.20%2Bfabric.jar",
       "size": 61977,
       "sha256": "a4810524b0d698e2e0def497bb103ee8432f25ac88048e6744ef255b17cd7af8",
       "kind": "mod",
@@ -916,7 +916,7 @@
     },
     {
       "path": "mods/Steam_Rails-1.7.2\u002Bfabric-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/Steam_Rails-1.7.2%2Bfabric-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/Steam_Rails-1.7.2%2Bfabric-mc1.20.1.jar",
       "size": 16863902,
       "sha256": "a1204d76be4771778411c5def98ff3bcbe9869f12698ed9ce6795e93e6b49afe",
       "kind": "mod",
@@ -925,7 +925,7 @@
     },
     {
       "path": "mods/supermartijn642corelib-1.1.22-fabric-mc1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/supermartijn642corelib-1.1.22-fabric-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/supermartijn642corelib-1.1.22-fabric-mc1.20.1.jar",
       "size": 604981,
       "sha256": "51a69b6acda1f4e4b7aff1b8a43740611ddeddb2b8c3e29a34d95506fda8943b",
       "kind": "mod",
@@ -934,7 +934,7 @@
     },
     {
       "path": "mods/swinginglanterns-1.20.1-1.20.6-1.5.0.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/swinginglanterns-1.20.1-1.20.6-1.5.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/swinginglanterns-1.20.1-1.20.6-1.5.0.jar",
       "size": 439595,
       "sha256": "f86ba71ef112359bc8b22d769277452a7957ea77af18869a64dadd83fb458af0",
       "kind": "mod",
@@ -943,7 +943,7 @@
     },
     {
       "path": "mods/trinkets-3.7.2.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/trinkets-3.7.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/trinkets-3.7.2.jar",
       "size": 238532,
       "sha256": "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3",
       "kind": "mod",
@@ -952,7 +952,7 @@
     },
     {
       "path": "mods/usefullanterns-1.0.4-1.20.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/usefullanterns-1.0.4-1.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/usefullanterns-1.0.4-1.20.jar",
       "size": 177937,
       "sha256": "ef2ef17f262b88ae459670e200dec199be50367c23a4ffc3e8c8be4afab63d55",
       "kind": "mod",
@@ -961,7 +961,7 @@
     },
     {
       "path": "mods/vcinteraction-1.20.1-1.0.5.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/vcinteraction-1.20.1-1.0.5.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/vcinteraction-1.20.1-1.0.5.jar",
       "size": 377794,
       "sha256": "5e5952ad5f5a5a4e69780e54a71862cbb9e453e3dd3cf1c383c839555e7bfb3f",
       "kind": "mod",
@@ -970,7 +970,7 @@
     },
     {
       "path": "mods/vista-1.20-3.1.3-fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/vista-1.20-3.1.3-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/vista-1.20-3.1.3-fabric.jar",
       "size": 7712775,
       "sha256": "28267454dc92d54fec6337ec727afadf779bdc8dcf6efb6088d12eab97e5b8d2",
       "kind": "mod",
@@ -979,7 +979,7 @@
     },
     {
       "path": "mods/vivecraft-1.20.1-1.3.15-fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/vivecraft-1.20.1-1.3.15-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/vivecraft-1.20.1-1.3.15-fabric.jar",
       "size": 6218629,
       "sha256": "a09d18e8cdfd08920ce8ec9085d01664f31e53e4545a98b98c470841892e638c",
       "kind": "mod",
@@ -988,7 +988,7 @@
     },
     {
       "path": "mods/vmp-fabric-mc1.20.1-0.2.0\u002Bbeta.7.102-all.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.102-all.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.102-all.jar",
       "size": 487043,
       "sha256": "4b2a19188c20fc58870768e2b47bd0bf7ebd82edc406d3eaf5d6f0ec08ffbd59",
       "kind": "mod",
@@ -997,7 +997,7 @@
     },
     {
       "path": "mods/voicechat-fabric-1.20.1-2.6.20.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/voicechat-fabric-1.20.1-2.6.20.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/voicechat-fabric-1.20.1-2.6.20.jar",
       "size": 5271506,
       "sha256": "bef9e2725a5648d436110ed7cae0b910a48590584aadecc84f4629fa29e02afb",
       "kind": "mod",
@@ -1006,7 +1006,7 @@
     },
     {
       "path": "mods/wiretap-1.3.0\u002B1.20.1.fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/wiretap-1.3.0%2B1.20.1.fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/wiretap-1.3.0%2B1.20.1.fabric.jar",
       "size": 327046,
       "sha256": "ab840935a2ae502b6824eaa26f66e5e7850f6756e72930614f4bdb306d611255",
       "kind": "mod",
@@ -1015,7 +1015,7 @@
     },
     {
       "path": "mods/wthit-1.20.1-fabric-8.21.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/wthit-1.20.1-fabric-8.21.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/wthit-1.20.1-fabric-8.21.1.jar",
       "size": 849105,
       "sha256": "825797f642b5902e9647690681e1f1e642b60174bf0230c56094b42150cd8f9b",
       "kind": "mod",
@@ -1024,7 +1024,7 @@
     },
     {
       "path": "mods/xaerominimap-fabric-1.20.1-26.1.0.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/xaerominimap-fabric-1.20.1-26.1.0.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/xaerominimap-fabric-1.20.1-26.1.0.jar",
       "size": 2171315,
       "sha256": "b8e12e853fe985b0b65642908f474076ad076283350bcf0f4c0be5add607be78",
       "kind": "mod",
@@ -1033,7 +1033,7 @@
     },
     {
       "path": "mods/xaeroworldmap-fabric-1.20.1-1.41.2.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/xaeroworldmap-fabric-1.20.1-1.41.2.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/xaeroworldmap-fabric-1.20.1-1.41.2.jar",
       "size": 1411544,
       "sha256": "c97508fbea4a98195cad4f5a6d66c6611237704356321c4afb20f61e718f8a12",
       "kind": "mod",
@@ -1042,7 +1042,7 @@
     },
     {
       "path": "mods/XeKr\u0027s Decoration-1.20.1-Fabric-0.9.6.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/XeKr%27s%20Decoration-1.20.1-Fabric-0.9.6.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/XeKr%27s%20Decoration-1.20.1-Fabric-0.9.6.jar",
       "size": 2205385,
       "sha256": "b807521ce52356df684a80b6d5e0b73ff0dca7263123e5ba01f9fe00c32c408b",
       "kind": "mod",
@@ -1051,7 +1051,7 @@
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.6.6\u002B1.20.1-fabric.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar",
       "size": 1294234,
       "sha256": "7a2389ca436ea8f7abee787d6373f9526deece5d06785f3623b7fe89bd9b31ac",
       "kind": "mod",
@@ -1060,7 +1060,7 @@
     },
     {
       "path": "mods/zipline-1.1.3\u002B1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/mods/zipline-1.1.3%2B1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/mods/zipline-1.1.3%2B1.20.1.jar",
       "size": 105165,
       "sha256": "4b4951df0c3f0cd6e37bd1310ba5cc1fa0fa67a210725437e8305ad7c551d65d",
       "kind": "mod",
@@ -1069,7 +1069,7 @@
     },
     {
       "path": "resourcepacks/Borderless\u002B\u00A77Glassv1.0.zip",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/resourcepacks/Borderless%2B%C2%A77Glassv1.0.zip",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/resourcepacks/Borderless%2B%C2%A77Glassv1.0.zip",
       "size": 21079,
       "sha256": "d923f539c75e144eb1b593c5beb9122aefedcee9ed779ae3595b86ecbb633102",
       "kind": "resourcepack",
@@ -1078,7 +1078,7 @@
     },
     {
       "path": "resourcepacks/Clean-Connected-Glass-1.20-26.x.zip",
-      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.118/resourcepacks/Clean-Connected-Glass-1.20-26.x.zip",
+      "url": "https://raw.githubusercontent.com/hh4ck1/helper_for_Launcher/main/packs/0.1.119/resourcepacks/Clean-Connected-Glass-1.20-26.x.zip",
       "size": 344430,
       "sha256": "eb952e153997f1915d25fb7d8b3daa133928d814fc7158f21d430f82e68bfeb2",
       "kind": "resourcepack",
